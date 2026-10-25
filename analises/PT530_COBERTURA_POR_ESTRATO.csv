@@ -1,0 +1,3 @@
+﻿estrato,populacao_N,amostra_n,percentual_amostrado,probabilidade_detecao_hipotetica_1pct,advertencia
+imobilizado_operacao,497280,597,0.120053,99.75309,hipotese aleatoria simples no estrato; nao testa documentos
+direito_de_uso,2720,3,0.110294,2.94955,hipotese aleatoria simples no estrato; nao testa documentos

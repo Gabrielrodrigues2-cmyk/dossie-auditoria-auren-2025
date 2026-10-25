@@ -1,0 +1,13 @@
+{
+  "pdf_pages": 143,
+  "pt_files": 27,
+  "pt_min_words": 687,
+  "pt_med_words": 835,
+  "pt_max_words": 1948,
+  "python_syntax_files": 18,
+  "python_syntax_errors": 0,
+  "cvm_comparisons": 596,
+  "cvm_conciliations": 596,
+  "normative_item_matching_not_semantic_validation": true,
+  "github_not_verified": true
+}

@@ -1,0 +1,28 @@
+﻿PT,area,procedimentos,evidencia_esperada,limite
+EC,Aceitação e critérios,"Conferir estrutura de relato publicada, responsabilidade das partes e limite da evidência; registrar distinção entre asseguração e estudo.",Estrutura conceitual; DFP; relatório publicado,Não há contrato nem asseguração real.
+200,Objetivos e evidência,"Confrontar objeto, afirmações, escopo e limitações com a DFP; documentar ceticismo e riscos de fraude/erro.",DFP 2025 e registro de fontes,Acesso exclusivamente público.
+210,Termos do trabalho,"Preparar minuta de carta de contratação; listar precondições, escopo, responsabilidades e acesso a registros.","Minuta de carta, sem assinatura",PA: nenhuma contratação foi celebrada.
+220,Qualidade,"Documentar preparador, revisões, consultas e diferenças pendentes; não simular aprovação.",Controle de versões e revisão,Revisor não designado.
+230,Documentação,"Vincular cada achado a fonte, página, data e arquivo; preservar entradas e saídas e identificação do autor.",Registro de fontes e manifesto SHA256,Parte da rastreabilidade de URL ainda pendente.
+240,Fraude,Mapear possibilidade de capitalização indevida e manipulação de estimativas; PA: testar lançamentos e indagar administração.,Riscos públicos e programa PA,Sem acusação ou evidência de fraude real.
+250,Conformidade,Listar legislação/regulação potencialmente relevante e notas de contingências; PA: examinar suporte jurídico.,"DFP, notas e documentos regulatórios",Sem teste de conformidade legal.
+260,Governança,"Planejar comunicação de escopo, riscos, limitações e distorções comprovadas; registrar destinatários previstos.",Minuta de comunicação,Não houve contato com governança.
+265,Controles internos,"Definir critérios de deficiência, gravidade e comunicação; PA: walkthrough e testes.",Matriz de controles PA,Nenhuma deficiência real comprovada.
+300,Planejamento,"Definir áreas significativas, materialidade, cronograma e dependências; documentar mudanças.","PT 315, 320 e plano","Plano didático, não plano contratado."
+315,Avaliação de riscos,"Identificar afirmações para imobilizado: existência, direitos, corte, completude, avaliação e apresentação; ligar risco a procedimento.","DFP, Nota 13(a), matriz de risco",Controle interno não testado.
+320,Materialidade,"Recalcular 0,5% do ativo; 70% execução; 5% trivial; justificar escolha como didática e fatores qualitativos.",Ativo total DFP e planilha,Percentuais não prescritos pela NBC.
+330,Respostas a riscos,"RP: conciliar nota e balanço; PA: vouching de adições, inspeção física, recálculo depreciação, contratos de arrendamento.","Nota 13(a), conciliação, programas",RP aritmético não prova saldos.
+402,Organização de serviços,"PA: identificar processadores terceirizados, obter relatório de controles e avaliar controles complementares.",Questionário e relatório de serviços,Não foi comprovada organização relevante.
+450,Distorções,"Separar diferenças aritméticas reais de alertas SD; PA: acumular erros reais, solicitar ajustes, projetar distorções elegíveis.","Planilha de exceções, conciliação",Alertas não equivalem a erros.
+500,Evidência,"Classificar origem, confiabilidade, suficiência e pertinência; não confundir DFP com suporte de transações.",DFP e trilha dos scripts,Sem suporte originário.
+501,Estoques/litígios/segmentos,"PA: inventário físico, cartas de advogados e reconciliação segmentos; RP: notas divulgadas quando pertinentes.",Notas da DFP; minutas PA,Sem observação física nem carta jurídica.
+505,Confirmações,"PA: selecionar terceiros, preparar cartas, manter controle de envio/retorno e tratar não respostas.",Modelos de circularização,Nenhuma confirmação enviada.
+510,Saldos iniciais,"Conferir comparativos publicados, movimentos iniciais e efeitos de aquisição; PA: testar papéis e saldos auxiliares.",DFP 2024 e 2025,Comparativos não validam abertura.
+520,Analíticos,RP: reexecutar rollforward da Nota 13(a); definir expectativa independente e limiar; investigar diferenças.,JSON e DFP Nota 13(a),Só consistência aritmética comprovada.
+530,Amostragem,"Documentar população, unidade, desenho, tamanho 600, seleção, exceções e limites de projeção.","CSV 600, base SD e gabarito separado",Estratificação não sustenta IC binomial simples.
+540,Estimativas,"PA: avaliar vida útil, impairment, PPA, premissas atuariais, sensibilidade e viés; SD: testar modelo hipotético.",Notas públicas e modelo SD,Sem validação de premissas reais.
+550,Partes relacionadas,"RP: ler nota de partes relacionadas; PA: obter cadastro, atas, contratos e testar completude.",Notas da DFP e matriz PA,Não é possível atestar completude.
+560,Eventos subsequentes,Definir janela até data do relatório; RP: ler notas; PA: examinar atas e confirmações de eventos.,Notas e fatos relevantes documentados,Cobertura pública parcial.
+570,Continuidade,"RP: avaliar divulgação de dívida, liquidez e fluxos; PA: testar projeções, covenants e planos.","DFP, DFC e notas",Não emitir opinião de continuidade.
+580,Representações,"PA: elaborar carta da administração, com afirmações e data apropriada; não assinar.",Modelo de carta,Nenhuma representação obtida.
+600,Auditoria de grupos,"RP: mapear perímetro divulgado; PA: definir componentes, comunicar auditores e testar eliminações.",Notas de combinação/consolidação,Não houve trabalho de auditor de componente.

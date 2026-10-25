@@ -1,0 +1,6 @@
+id,origem,anomalia_ou_distorcao,valor_R$,evidencia,avaliacao_antes_gabarito,avaliacao_depois_gabarito,efeito_real_auren
+E01,RP,Principais assuntos PwC,NA,DFP relatório auditor,Ponto de risco e de planejamento; não representa erro identificado,Não se aplica,Não determinado
+E02,RP,Ressarcimento 2025,NA,DFP Nota 20,Estimativa e exposição regulatória; não é por si uma distorção,Não se aplica,Não determinado
+E03,SD,Triagem de documentos duplicados V2,NA,CSV V2 + regra autônoma,Exceção didática pendente de suporte,Confrontar após a detecção com gabarito restrito,Nenhum
+E04,SD,Indicadores do razão sintético,NA,RAZAO_PT240_12000_LINHAS.csv,Indicadores de risco sem evidência de fraude,Comparar após detector com gabarito de lançamentos,Nenhum
+E05,SD,Recalibração V3 para Nota 13(a),0,CONCILIACAO_V3.json,Fechamento matemático por construção - NÃO teste substantivo,Não se aplica,Nenhum

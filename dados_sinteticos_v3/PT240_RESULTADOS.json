@@ -1,0 +1,13 @@
+{
+  "classificacao": "SD",
+  "lancamentos": 6000,
+  "linhas_razao": 12000,
+  "total_debitos_rs": 2553487120,
+  "total_creditos_rs": 2553487120,
+  "triagem_sem_gabarito": 21,
+  "planted_distintos": 21,
+  "verdadeiros_positivos_didaticos": 21,
+  "falsos_positivos_didaticos": 0,
+  "avisos": "Red flags didáticas não são prova de fraude; contas fictícias e nenhuma ligação a razão real da Auren",
+  "sha256": "ce622a092cf150d135cbd515c93588287328fc3f853075fecb45a1ea21755fbd"
+}

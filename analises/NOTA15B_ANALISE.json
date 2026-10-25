@@ -1,0 +1,13 @@
+{
+  "fonte": "DFP 2025 Nota 15(b), gráfico no PDF físico p.106, impresso p.105",
+  "natureza": "RP transcrição manual verificada aritmeticamente dos rótulos do gráfico",
+  "soma_fluxos_RSmil": 24521253,
+  "2032_mais_RSmil": 11906154,
+  "pct_2032_mais": 48.55,
+  "2026_RSmil": 1938340,
+  "nota_importante": "O gráfico inclui amortização e PROJEÇÃO DE JUROS; não equivale ao saldo contábil do passivo.",
+  "conferencias": {
+    "soma_cada_barra": true,
+    "total_anuais_7": 7
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "natureza": "SD / inteiramente fictício; valores agregados calibrados por convenção didática, não saldos analíticos extraídos da companhia",
+  "base": "V3 CEGA SEM COLUNA DE ANOMALIAS",
+  "semente": 20251025,
+  "registros": 500000,
+  "total_liquido": 25570358000,
+  "composicao_rs": {
+    "IMOBILIZADO_OPERACAO_custo": 42273221000,
+    "IMOBILIZADO_OPERACAO_dep": 17822049000,
+    "IMOBILIZADO_OPERACAO_ppa": 1230019000,
+    "IMOBILIZADO_OPERACAO_amort_ppa": 250944000,
+    "IMOBILIZADO_OPERACAO_liquido": 25430247000,
+    "DIREITO_USO_ARRENDAMENTO_custo": 210000000,
+    "DIREITO_USO_ARRENDAMENTO_dep": 69889000,
+    "DIREITO_USO_ARRENDAMENTO_ppa": 0,
+    "DIREITO_USO_ARRENDAMENTO_amort_ppa": 0,
+    "DIREITO_USO_ARRENDAMENTO_liquido": 140111000
+  },
+  "categorias": {
+    "USINA_GERACAO_GRANDE": 40,
+    "PECAS_E_COMPONENTES": 124046,
+    "MAQUINAS_E_INSTALACOES": 124221,
+    "EDIFICACOES": 124602,
+    "OBRAS_E_MELHORIAS": 124371,
+    "DIREITO_DE_USO": 2720
+  },
+  "peso_40_itens_ancora_no_custo_operacional_pct": 62,
+  "origem_RP": "DFP 2025, Nota 13(a), página física 96; direito de uso em BP/nota explicativa distinta",
+  "sha256_csv_gz": "3b378a2197cf4f95ad6d7ce80f7d9619db9d34e5d3f413ab473b76dbd8b40632",
+  "sha256_gabarito": "8e8f9bf9e774b5a76d784e82e133cef54b12488a37dda715786fff5bc0c2375b"
+}

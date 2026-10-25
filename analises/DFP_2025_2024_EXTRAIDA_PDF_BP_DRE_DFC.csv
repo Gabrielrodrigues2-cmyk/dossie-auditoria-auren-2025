@@ -1,0 +1,299 @@
+﻿escopo,demonstracao,codigo_conta_CVM,descricao,2025_RSmil,2024_RSmil,variacao_RSmil,pagina_fisica_PDF,fonte,unidade
+CONSOLIDADO,BP,1,Ativo Total,48727388,52754236,-4026848,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01,Ativo Circulante,8460107,11133287,-2673180,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.01,Caixa e Equivalentes de Caixa,3826127,7200549,-3374422,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.02,Aplicações Financeiras,556295,2629,553666,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.03,Contas a Receber,1712414,1488360,224054,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.03.01,Clientes,1712414,1488360,224054,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.06,Tributos a Recuperar,289189,261258,27931,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.08,Outros Ativos Circulantes,2076082,2180491,-104409,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.08.01,Ativos Não-Correntes a Venda,0,0,0,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.08.03,Outros,2076082,2180491,-104409,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.08.03.01,Fundo de liquidez - Conta reserva,110694,17875,92819,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.08.03.02,Partes relacionadas,2012,0,2012,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.08.03.04,Contratos futuros de energia,1514557,1682708,-168151,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.08.03.05,Outros ativos,203050,236344,-33294,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.08.03.07,Instrumentos financeiros derivativos,139,199900,-199761,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.08.03.08,Dividendos a receber,152515,8865,143650,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.08.03.09,Cauções e depósitos judiciais,3544,4307,-763,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.08.03.10,Ressarcimento,0,3203,-3203,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.01.08.03.11,Recebíveis de alienação de participação societária,89571,27289,62282,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02,Ativo Não Circulante,40267281,41620949,-1353668,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01,Ativo Realizável a Longo Prazo,5364266,5670309,-306043,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01.07,Tributos Diferidos,1942725,2172103,-229378,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,1942725,2172103,-229378,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01.09,Créditos com Partes Relacionadas,60654,114028,-53374,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01.10,Outros Ativos Não Circulantes,3360887,3384178,-23291,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01.10.03,Fundo de liquidez - Conta reserva,963912,892406,71506,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01.10.04,Cauções e depósitos judiciais,74804,76626,-1822,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01.10.05,Outros ativos,27428,5524,21904,15,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01.10.06,Contratos futuros de energia,1470594,2230198,-759604,16,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01.10.07,Ativo sujeito à indenização,498815,0,498815,16,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01.10.09,Tributos a recuperar,106169,136736,-30567,16,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01.10.10,Instrumentos financeiros derivativos,179035,14851,164184,16,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01.10.11,Ressarcimento,0,6038,-6038,16,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01.10.12,Ativo sujeito à indenização,2790,21799,-19009,16,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.01.10.13,Recebíveis de alienação de participação societária,37340,0,37340,16,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.02,Investimentos,2131020,2261677,-130657,16,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.03,Imobilizado,25570358,26332659,-762301,16,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.03.01,Imobilizado em Operação,25430247,26183375,-753128,16,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.03.02,Direito de Uso em Arrendamento,140111,149284,-9173,16,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,1.02.04,Intangível,7201637,7356304,-154667,16,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2,Passivo Total,48727388,52754236,-4026848,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01,Passivo Circulante,6401179,7148376,-747197,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.01,Obrigações Sociais e Trabalhistas,118193,116781,1412,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.01.02,Obrigações Trabalhistas,118193,116781,1412,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.01.02.01,Obrigações estimadas e folha de pagamento,118193,116781,1412,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.02,Fornecedores,1461984,1305510,156474,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.03,Obrigações Fiscais,163314,150061,13253,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.04,Empréstimos e Financiamentos,1949605,2709622,-760017,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.04.01,Empréstimos e Financiamentos,1938340,2698720,-760380,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.04.03,Financiamento por Arrendamento,11265,10902,363,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.05,Outras Obrigações,2708083,2866402,-158319,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.05.01,Passivos com Partes Relacionadas,240,279,-39,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.05.02,Outros,2707843,2866123,-158280,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.05.02.01,Dividendos e JCP a Pagar,44091,164253,-120162,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.05.02.04,Instrumentos financeiros derivativos,190187,64335,125852,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.05.02.05,Contratos futuros de energia,1293731,1425595,-131864,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.05.02.06,Encargos setoriais,54414,39623,14791,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.05.02.07,UBP - Uso do bem público,0,11714,-11714,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.05.02.08,Obrigações socioambientais e desmobilização de ativos,40479,57200,-16721,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.05.02.09,Outros passivos,64688,59469,5219,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.05.02.10,Provisão de ressarcimento,900907,961966,-61059,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.01.05.02.11,Provisão para litígios,119346,81968,37378,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02,Passivo Não Circulante,28550746,31122506,-2571760,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.01,Empréstimos e Financiamentos,22735718,24505677,-1769959,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.01.01,Empréstimos e Financiamentos,22582913,24346016,-1763103,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.01.03,Financiamento por Arrendamento,152805,159661,-6856,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.02,Outras Obrigações,3143316,3954520,-811204,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.02.01,Passivos com Partes Relacionadas,154949,146784,8165,17,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.02.02,Outros,2988367,3807736,-819369,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.02.02.04,Outros passivos,63860,109065,-45205,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.02.02.05,Contratos futuros de energia,1373197,2296975,-923778,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.02.02.07,Tributos a recolher,23954,29245,-5291,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.02.02.08,UBP - Uso do bem público,0,0,0,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.02.02.09,Obrigações socioambientais e desmobilização de ativos,433668,430834,2834,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.02.02.10,Benefícios pós-emprego,946394,868771,77623,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.02.02.11,Instrumentos financeiros derivativos,3675,45669,-41994,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.02.02.12,Obrigações a pagar com investidas,784,119,665,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.02.02.13,Obrigações de alienação de participação societária,142835,27058,115777,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.03,Tributos Diferidos,1279815,1408699,-128884,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,1279815,1408699,-128884,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.04,Provisões,1391897,1253610,138287,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.04.02,Outras Provisões,1391897,1253610,138287,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.04.02.04,Provisão de ressarcimento,688480,459803,228677,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.02.04.02.05,Provisão para litígios,703417,793807,-90390,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.03,Patrimônio Líquido Consolidado,13775463,14483354,-707891,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.03.01,Capital Social Realizado,6187772,6187772,0,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.03.02,Reservas de Capital,5931974,5926300,5674,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.03.02.05,Ações em Tesouraria,-59160,-53617,-5543,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.03.02.07,Reservas de Capital,5991134,5979917,11217,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.03.04,Reservas de Lucros,259912,923944,-664032,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.03.06,Ajustes de Avaliação Patrimonial,129104,163680,-34576,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,BP,2.03.09,Participação dos Acionistas Não Controladores,1266701,1281658,-14957,18,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01,Caixa Líquido Atividades Operacionais,1394795,581151,813644,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01,Caixa Gerado nas Operações,4575414,1722927,2852487,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.01,Lucro (prejuízo) antes do imposto de renda e da contribuição social,-117814,530373,-648187,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.02,Depreciação e amortização,1550238,637363,912875,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.03,Amortização de mais valia,372725,75827,296898,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.04,Ganho (perda) com venda de imobilizado e ativos disponíveis para venda,-9964,-25624,15660,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.05,Instrumentos financeiros derivativos,48659,37,48622,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.06,Rendimento sobre fundo de reserva,-124600,-28914,-95686,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.07,Equivalência patrimonial,-205347,-164384,-40963,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.08,Juros e variações monetárias,2805025,565925,2239100,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.09,Apropriação de custos de captação,197381,21196,176185,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.10,Baixa de atualização monetária de depósitos judiciais e reversão de litígios,1706,-31385,33091,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.11,Hedge financeiro sobre importação,0,0,0,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.12,Contratos futuros de energia,-127887,-13070,-114817,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.13,Reversão (provisão) de impairment de ativo imobilizado e intangível,-325665,-3222,-322443,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.14,Provisão (reversão) para litígios e incentivo de longo prazo,-48552,-169251,120699,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.15,Provisão (reversão) de ressarcimento e obrigações socioambientais,427684,134202,293482,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.16,Indenização de bens reversíveis,-142895,0,-142895,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.17,"Valor justo dos empréstimos, financiamentos e debêntures",15877,0,15877,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.18,Atualizações de saldos,127546,193535,-65989,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.19,Ajuste a valor presente,53834,9999,43835,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.01.20,"Baixa de imobilizado, intangível e direito de uso de arrendamentos",77463,-9680,87143,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02,Variações nos Ativos e Passivos,-598434,-298304,-300130,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.01,Contas a receber de clientes,-290491,-228666,-61825,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.02,Tributos a recuperar,2722,-17982,20704,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.04,Cauções e depósitos judiciais,5517,117150,-111633,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.05,Partes relacionadas,-2577,52975,-55552,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.06,Demais créditos e outros ativos,-143005,-65157,-77848,21,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.07,Fornecedores,188176,174516,13660,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.08,Instrumentos financeiros derivativos,126568,46563,80005,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.09,Obrigações estimadas e folha de pagamento,347,16549,-16202,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.10,Tributos a recolher,-72354,-22830,-49524,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.11,Encargos setoriais,14791,-2197,16988,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.12,Pagamento de obrigações socioambientais,-22070,-23350,1280,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.13,Pagamento de UBP - Uso do bem público,-11854,-38667,26813,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.14,"Pagamento de litígios, obrigações e acordos judiciais",-77555,-76150,-1405,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.15,Pagamento de benefícios pós-emprego,-146199,-134324,-11875,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.16,Demais obrigações e outros passivos,54136,7641,46495,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.17,Ativos indenizáveis pela União,0,0,0,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.02.19,Pagamento de ressarcimentos,-224586,-104375,-120211,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.03,Outros,-2582185,-843472,-1738713,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.03.01,"Juros pagos sobre empréstimos, financiamentos e debêntures",-2138868,-682969,-1455899,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.03.02,Imposto de renda e contribuição social pagos,-252512,-141120,-111392,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.01.03.03,Pagamento de juros sobre passivo de arrendamento,-190805,-19383,-171422,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.02,Caixa Líquido Atividades de Investimento,-1343425,-4503278,3159853,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.02.01,Resgate de aplicações financeiras,-553666,571858,-1125524,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.02.02,Resgate de conta reserva,-39725,-15466,-24259,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.02.03,Aquisição de imobilizado e intangível,-970265,-248264,-722001,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.02.04,Recebimento de dividendos e juros sobre capital próprio,232120,230930,1190,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.02.06,Recebimento pela venda de ativo imobilizado e disponível para venda,9964,35173,-25209,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.02.07,Redução/Aumento de capital em investidas,-4673,-9257,4584,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.02.08,Recebimento de operação de alienação de investidas,63516,0,63516,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.02.09,"Pagamento pela aquisição - Auren Participações, líquido do caixa incluído",0,-4490012,4490012,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.02.10,"Aquisição de investimento - Way2, líquido do caixa incluído",-80260,0,-80260,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.02.12,"Pagamento pela aquisição - Esfera Energia, líquido do caixa incluído",-436,-61866,61430,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.02.13,Aumento de capital - Combinação de Negócios,0,-516374,516374,22,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.03,Caixa Líquido Atividades de Financiamento,-3425792,7884282,-11310074,23,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.03.01,Captação de recursos,5432764,10009688,-4576924,23,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.03.02,"Liquidação de empréstimos, financiamentos e debêntures",-8597828,-2137464,-6460364,23,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.03.03,Custo da captação de recursos,-111634,-122954,11320,23,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.03.05,Liquidação de arrendamentos,-27102,-12571,-14531,23,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.03.06,Pagamento de dividendos,-241835,-399950,158115,23,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.03.07,Custo de recompra - ações em tesouraria,-5543,-53617,48074,23,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.03.08,Liquidação de instrumentos derivativos,125386,84776,40610,23,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.03.09,Incorporação ARN - Combinação de Negócios,0,516374,-516374,23,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.05,Aumento (Redução) de Caixa e Equivalentes,-3374422,3962155,-7336577,23,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.05.01,Saldo Inicial de Caixa e Equivalentes,7200549,3238394,3962155,23,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DFC,6.05.02,Saldo Final de Caixa e Equivalentes,3826127,7200549,-3374422,23,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.01,Receita de Venda de Bens e/ou Serviços,13176952,8059951,5117001,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.02,Custo dos Bens e/ou Serviços Vendidos,-11026216,-6630948,-4395268,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.02.01,Custo com energia elétrica,-8481851,-5634213,-2847638,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.02.02,Custo com operação,-2544365,-996735,-1547630,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.03,Resultado Bruto,2150736,1429003,721733,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.04,Despesas/Receitas Operacionais,165388,-137338,302726,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.04.02,Despesas Gerais e Administrativas,-648963,-454065,-194898,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.04.05,Outras Despesas Operacionais,609004,152343,456661,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.04.05.01,"Outras receitas (despesas) operacionais, líquidas",609004,152343,456661,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.04.06,Resultado de Equivalência Patrimonial,205347,164384,40963,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,2316124,1291665,1024459,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.06,Resultado Financeiro,-2433938,-761292,-1672646,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.06.01,Receitas Financeiras,1107724,714887,392837,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.06.02,Despesas Financeiras,-3541662,-1476179,-2065483,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.07,Resultado Antes dos Tributos sobre o Lucro,-117814,530373,-648187,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-440061,-258504,-181557,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.08.01,Corrente,-330940,-172128,-158812,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.08.02,Diferido,-109121,-86376,-22745,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.09,Resultado Líquido das Operações Continuadas,-557875,271869,-829744,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.11,Lucro/Prejuízo Consolidado do Período,-557875,271869,-829744,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.11.01,Atribuído a Sócios da Empresa Controladora,-664032,250938,-914970,19,"DFP 2025, versão 1",R$ mil
+CONSOLIDADO,DRE,3.11.02,Atribuído a Sócios Não Controladores,106157,20931,85226,19,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1,Ativo Total,17164815,23466654,-6301839,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.01,Ativo Circulante,782008,2492916,-1710908,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.01.01,Caixa e Equivalentes de Caixa,292443,2041410,-1748967,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.01.02,Aplicações Financeiras,11247,0,11247,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.01.03,Contas a Receber,2700,0,2700,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.01.03.01,Clientes,2700,0,2700,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.01.06,Tributos a Recuperar,53678,27196,26482,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.01.08,Outros Ativos Circulantes,421940,424310,-2370,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.01.08.03,Outros,421940,424310,-2370,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.01.08.03.02,Partes relacionadas,86330,108938,-22608,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.01.08.03.05,Outros ativos,2344,2021,323,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.01.08.03.08,Dividendos a receber,333266,313351,19915,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.02,Ativo Não Circulante,16382807,20973738,-4590931,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.02.01,Ativo Realizável a Longo Prazo,115900,125057,-9157,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.02.01.09,Créditos com Partes Relacionadas,109164,118050,-8886,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.02.01.10,Outros Ativos Não Circulantes,6736,7007,-271,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.02.01.10.04,Cauções e depósitos judiciais,473,410,63,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.02.01.10.05,Outros ativos,6263,6591,-328,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.02.01.10.09,Tributos a recuperar,0,6,-6,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.02.02,Investimentos,16050220,20624734,-4574514,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.02.03,Imobilizado,37635,49365,-11730,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.02.03.01,Imobilizado em Operação,18882,27403,-8521,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.02.03.02,Direito de Uso em Arrendamento,18753,21962,-3209,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,1.02.04,Intangível,179052,174582,4470,3,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2,Passivo Total,17164815,23466654,-6301839,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01,Passivo Circulante,165919,308928,-143009,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01.01,Obrigações Sociais e Trabalhistas,50910,48894,2016,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01.01.02,Obrigações Trabalhistas,50910,48894,2016,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01.01.02.01,Obrigações estimadas e folha de pagamento,50910,48894,2016,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01.02,Fornecedores,22453,10986,11467,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01.03,Obrigações Fiscais,3149,4610,-1461,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01.04,Empréstimos e Financiamentos,88057,168380,-80323,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01.04.01,Empréstimos e Financiamentos,83287,164076,-80789,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01.04.03,Financiamento por Arrendamento,4770,4304,466,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01.05,Outras Obrigações,1350,76058,-74708,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01.05.01,Passivos com Partes Relacionadas,383,13634,-13251,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01.05.02,Outros,967,62424,-61457,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01.05.02.01,Dividendos e JCP a Pagar,447,60033,-59586,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01.05.02.09,Outros passivos,284,2391,-2107,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.01.05.02.11,Provisão para litígios,236,0,236,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.02,Passivo Não Circulante,4490134,9956030,-5465896,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.02.01,Empréstimos e Financiamentos,2921949,8282241,-5360292,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.02.01.01,Empréstimos e Financiamentos,2907940,8263593,-5355653,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.02.01.03,Financiamento por Arrendamento,14009,18648,-4639,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.02.02,Outras Obrigações,116528,110987,5541,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.02.02.01,Passivos com Partes Relacionadas,98642,93434,5208,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.02.02.02,Outros,17886,17553,333,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.02.02.02.04,Outros passivos,17886,17553,333,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.02.03,Tributos Diferidos,1451654,1562593,-110939,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,1451654,1562593,-110939,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.02.04,Provisões,3,209,-206,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.02.04.02,Outras Provisões,3,209,-206,4,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.02.04.02.05,Provisão para litígios,3,209,-206,5,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.03,Patrimônio Líquido,12508762,13201696,-692934,5,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.03.01,Capital Social Realizado,6187772,6187772,0,5,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.03.02,Reservas de Capital,5931974,5926300,5674,5,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.03.02.05,Ações em Tesouraria,-59160,-53617,-5543,5,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.03.02.07,Reservas de Capital,5991134,5979917,11217,5,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.03.04,Reservas de Lucros,259912,923944,-664032,5,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,BP,2.03.06,Ajustes de Avaliação Patrimonial,129104,163680,-34576,5,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01,Caixa Líquido Atividades Operacionais,-905529,-123740,-781789,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.01,Caixa Gerado nas Operações,-63821,-9715,-54106,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.01.01,Lucro (prejuízo) antes do imposto de renda e da contribuição social,-774971,201455,-976426,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.01.02,Depreciação e amortização,14448,10663,3785,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.01.07,Equivalência patrimonial,-82153,-462480,380327,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.01.08,Juros e variações monetárias,742418,244828,497590,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.01.09,Apropriação de custos de captação,34430,3054,31376,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.01.11,Hedge financeiro sobre importação,0,0,0,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.01.14,Provisão (reversão) para litígios e incentivo a longo prazo,451,-6949,7400,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.01.16,Indenização de bens reversíveis,0,0,0,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.01.18,Atualizações de saldos,-36,-49,13,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.01.19,Ajuste a valor presente,1592,-237,1829,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.01.20,"Baixa de imobilizado, intangível e direito de uso de arrendamentos",0,0,0,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.02.01,Contas a receber de clientes,-2700,0,-2700,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.02.02,Tributos a recuperar,-26476,31783,-58259,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.02.04,Cauções e depósitos judiciais,0,-1,1,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.02.05,Partes relacionadas,-9853,20718,-30571,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.02.06,Demais créditos e outros ativos,5,252,-247,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.02.07,Fornecedores,8880,912,7968,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.02.08,Instrumentos financeiros derivativos,0,0,0,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.02.09,Obrigações estimadas e folha de pagamento,2016,-17177,19193,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.02.10,Tributos a recolher,-1461,1676,-3137,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.02.16,Demais obrigações e outros passivos,1171,-80,1251,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.03.01,"Juros pagos sobre empréstimos, financiamentos e debêntures",-813290,-152108,-661182,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.01.03.02,Imposto de renda e contribuição social pagos,0,0,0,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.02,Caixa Líquido Atividades de Investimento,4627901,-5892744,10520645,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.02.01,Resgate de aplicações financeiras,-11247,0,-11247,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.02.03,Aquisição de imobilizado e intangível,-4601,-18173,13572,8,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.02.04,Recebimento de dividendos e juros sobre capital próprio,2078346,1643111,435235,9,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.02.07,Redução/Aumento de capital em investidas,2530422,-1159000,3689422,9,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.02.08,Recebimento de operação de alienação de investidas,34981,0,34981,9,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.02.09,"Pagamento pela aquisição - Auren Participações, líquido do caixa incluído",0,-6358682,6358682,9,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.03,Caixa Líquido Atividades de Financiamento,-5471339,7480179,-12951518,9,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.03.01,Captação de recursos,0,8300000,-8300000,9,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.03.02,"Liquidação de empréstimos, financiamentos e debêntures",-5400000,-300000,-5100000,9,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.03.03,Custo da captação de recursos,0,-61775,61775,9,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.03.05,Liquidação de arrendamentos,-6210,-4479,-1731,9,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.03.06,Pagamento de dividendos,-59586,-399950,340364,9,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.03.07,Pagamento de resgate de ações,-5543,-53617,48074,9,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.05,Aumento (Redução) de Caixa e Equivalentes,-1748967,1463695,-3212662,9,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.05.01,Saldo Inicial de Caixa e Equivalentes,2041410,577715,1463695,9,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DFC,6.05.02,Saldo Final de Caixa e Equivalentes,292443,2041410,-1748967,9,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DRE,3.04,Despesas/Receitas Operacionais,-85444,326654,-412098,6,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DRE,3.04.02,Despesas Gerais e Administrativas,-167807,-135873,-31934,6,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DRE,3.04.05,Outras Despesas Operacionais,210,47,163,6,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DRE,3.04.05.01,"Outras receitas (despesas) operacionais, líquidas",210,47,163,6,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DRE,3.04.06,Resultado de Equivalência Patrimonial,82153,462480,-380327,6,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DRE,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,-85444,326654,-412098,6,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DRE,3.06,Resultado Financeiro,-689527,-125199,-564328,6,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DRE,3.06.01,Receitas Financeiras,103472,139792,-36320,6,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DRE,3.06.02,Despesas Financeiras,-792999,-264991,-528008,6,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DRE,3.07,Resultado Antes dos Tributos sobre o Lucro,-774971,201455,-976426,6,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DRE,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,110939,49483,61456,6,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DRE,3.08.02,Diferido,110939,49483,61456,6,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DRE,3.09,Resultado Líquido das Operações Continuadas,-664032,250938,-914970,6,"DFP 2025, versão 1",R$ mil
+CONTROLADORA,DRE,3.11,Lucro/Prejuízo do Período,-664032,250938,-914970,6,"DFP 2025, versão 1",R$ mil

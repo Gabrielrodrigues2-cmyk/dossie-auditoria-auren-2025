@@ -1,0 +1,5 @@
+﻿N,n,anomalias_M,prevalencia_pct,prob_identificar_pelo_menos_uma_pct,alcance
+500000,600,500,0.1,45.15506,CENARIO HIPOTETICO; nao equivale a seguranca de auditoria
+500000,600,1000,0.2,69.938425,CENARIO HIPOTETICO; nao equivale a seguranca de auditoria
+500000,600,2500,0.5,95.067541,CENARIO HIPOTETICO; nao equivale a seguranca de auditoria
+500000,600,5000,1.0,99.760371,CENARIO HIPOTETICO; nao equivale a seguranca de auditoria

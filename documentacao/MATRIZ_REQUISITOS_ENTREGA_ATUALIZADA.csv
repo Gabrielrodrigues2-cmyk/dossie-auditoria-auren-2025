@@ -1,0 +1,18 @@
+﻿Requisito,Arquivos corretos,Resultado de verificação,Status
+Dossiê PDF e cruzamentos,dossie/DOSSIE_AUREN_2025_REVISAO_NORMATIVA_OPERACIONAL.pdf,PRESENTE; PRESENTE — único PDF canônico; PT em PT/,OK
+27 papéis de trabalho,documentacao/MATRIZ_COBERTURA_NORMAS_ATUALIZADA.csv,PRESENTE; 27/27 verificados; relação individual em MATRIZ_COBERTURA_NORMAS_ATUALIZADA.csv,OK
+Base principal >=500 mil,dados_sinteticos_v3/IMOBILIZADO_500000_V3_CEGO.csv.gz,PRESENTE; 500.000 linhas — verificar pelo leitor CSV; fictícia,OK
+Dicionário da base principal,documentacao/DICIONARIO_V3.md,PRESENTE; 12 campos reais do CSV,OK
+Base auxiliar do PT 530,dados_sinteticos_v2/imobilizado_500000_v2_REGERADO.csv.gz; documentacao/DICIONARIO_V2.md,"PRESENTE; Amostragem aplicada à V2, não V3",OK
+Geração da V3,codigo/35_reconstruir_analitico_v3.py,PRESENTE; Código disponível para reprodução,OK
+"Amostragem, teste de atributos",codigo/28_pt530_v2_testes_reproduziveis.py; codigo/29_teste_independente_v2.py,PRESENTE; 600 observações e detector V2; não MUS,OK
+Razão fictício PT 240,codigo/36_gerar_razao_simulado_pt240.py; dados_sinteticos_v3/RAZAO_PT240_12000_LINHAS.csv,PRESENTE; 12.000 lançamentos fictícios,OK
+Reprodução automatizada,codigo/41_reproduzir_entrega.py; codigo/40_testes_integrados_checklist.py,"PRESENTE; Pipeline de bases e testes, não autoria integral do PDF",OK
+Planilha materialidade,planilhas/PT_320_materialidade_e_cobertura.xlsx,PRESENTE; Editável,OK
+Planilha de demonstrações reais,planilhas/DFP_REAL_E_CONCILIACOES_V3.xlsx,PRESENTE; Editável,OK
+Matriz normativa,documentacao/MATRIZ_COBERTURA_NORMAS_ATUALIZADA.csv,"PRESENTE; 27 PT, caminhos existentes",OK
+Fontes bibliográficas,documentacao/REGISTRO_FONTES_VERIFICADAS.csv,"PRESENTE; URL específica quando verificada, não inventada",OK
+Dados públicos CVM,fontes/cvm/dfp_cia_aberta_2025.zip; analises/COTEJO_PDF_VS_CVM_2025_2024.csv,PRESENTE; Fonte primária e seleção de 596 comparações,OK
+Seis programas de ciclo,ciclos/PROGRAMA_RECEITAS.md; ciclos/PROGRAMA_DISPONIBILIDADES.md; ciclos/PROGRAMA_ESTOQUES.md; ciclos/PROGRAMA_IMOBILIZADO.md; ciclos/PROGRAMA_PASSIVOS.md; ciclos/PROGRAMA_ESTIMATIVAS.md,PRESENTE; Seis programas presentes,OK
+README,README.md,"PRESENTE; Matrícula, índice e instruções",OK
+GitHub público,PENDENTE — URL externa,Não comprovado pelo ZIP; aluno deve publicar/testar,PENDENTE EXTERNO

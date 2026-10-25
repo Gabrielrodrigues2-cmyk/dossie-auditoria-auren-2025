@@ -1,0 +1,143 @@
+{
+  "fonte_oficial": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip",
+  "arquivo_recebido": "fontes/cvm/dfp_cia_aberta_2025.zip",
+  "sha256_zip": "cdce6cc0e0bb85128d48928a697841f66019965bf120858c6d9802a8b70f1184",
+  "cnpj_auren": "28.594.234/0001-23",
+  "data_referencia": "2025-12-31",
+  "linhas_CVM_ambos_anos": 1226,
+  "contas_PDF": 298,
+  "comparacoes_anuais": 596,
+  "status": {
+    "CONCILIADO": 596
+  },
+  "detalhe_por_escopo_demonstracao_ano": [
+    {
+      "status": "CONCILIADO",
+      "escopo": "CONSOLIDADO",
+      "demonstracao": "BP",
+      "ano": 2024,
+      "quantidade": 92
+    },
+    {
+      "status": "CONCILIADO",
+      "escopo": "CONSOLIDADO",
+      "demonstracao": "BP",
+      "ano": 2025,
+      "quantidade": 92
+    },
+    {
+      "status": "CONCILIADO",
+      "escopo": "CONSOLIDADO",
+      "demonstracao": "DFC",
+      "ano": 2024,
+      "quantidade": 68
+    },
+    {
+      "status": "CONCILIADO",
+      "escopo": "CONSOLIDADO",
+      "demonstracao": "DFC",
+      "ano": 2025,
+      "quantidade": 68
+    },
+    {
+      "status": "CONCILIADO",
+      "escopo": "CONSOLIDADO",
+      "demonstracao": "DRE",
+      "ano": 2024,
+      "quantidade": 22
+    },
+    {
+      "status": "CONCILIADO",
+      "escopo": "CONSOLIDADO",
+      "demonstracao": "DRE",
+      "ano": 2025,
+      "quantidade": 22
+    },
+    {
+      "status": "CONCILIADO",
+      "escopo": "CONTROLADORA",
+      "demonstracao": "BP",
+      "ano": 2024,
+      "quantidade": 60
+    },
+    {
+      "status": "CONCILIADO",
+      "escopo": "CONTROLADORA",
+      "demonstracao": "BP",
+      "ano": 2025,
+      "quantidade": 60
+    },
+    {
+      "status": "CONCILIADO",
+      "escopo": "CONTROLADORA",
+      "demonstracao": "DFC",
+      "ano": 2024,
+      "quantidade": 42
+    },
+    {
+      "status": "CONCILIADO",
+      "escopo": "CONTROLADORA",
+      "demonstracao": "DFC",
+      "ano": 2025,
+      "quantidade": 42
+    },
+    {
+      "status": "CONCILIADO",
+      "escopo": "CONTROLADORA",
+      "demonstracao": "DRE",
+      "ano": 2024,
+      "quantidade": 14
+    },
+    {
+      "status": "CONCILIADO",
+      "escopo": "CONTROLADORA",
+      "demonstracao": "DRE",
+      "ano": 2025,
+      "quantidade": 14
+    }
+  ],
+  "fontes": [
+    {
+      "arquivo": "dfp_cia_aberta_BPA_con_2025.csv",
+      "versao_CVM": 1,
+      "linhas_ambos_exercicios": 158
+    },
+    {
+      "arquivo": "dfp_cia_aberta_BPA_ind_2025.csv",
+      "versao_CVM": 1,
+      "linhas_ambos_exercicios": 154
+    },
+    {
+      "arquivo": "dfp_cia_aberta_BPP_con_2025.csv",
+      "versao_CVM": 1,
+      "linhas_ambos_exercicios": 246
+    },
+    {
+      "arquivo": "dfp_cia_aberta_BPP_ind_2025.csv",
+      "versao_CVM": 1,
+      "linhas_ambos_exercicios": 244
+    },
+    {
+      "arquivo": "dfp_cia_aberta_DRE_con_2025.csv",
+      "versao_CVM": 1,
+      "linhas_ambos_exercicios": 72
+    },
+    {
+      "arquivo": "dfp_cia_aberta_DRE_ind_2025.csv",
+      "versao_CVM": 1,
+      "linhas_ambos_exercicios": 68
+    },
+    {
+      "arquivo": "dfp_cia_aberta_DFC_MI_con_2025.csv",
+      "versao_CVM": 1,
+      "linhas_ambos_exercicios": 148
+    },
+    {
+      "arquivo": "dfp_cia_aberta_DFC_MI_ind_2025.csv",
+      "versao_CVM": 1,
+      "linhas_ambos_exercicios": 136
+    }
+  ],
+  "metodologia": "Correspondência por escopo, demonstração, código de conta e exercício; selecionada última versão da DFP 2025 da CVM. Valores em R$ mil.",
+  "limites": "Extração de contas do PDF pré-existente; confrontos textuais e notas explicativas não estão abrangidos. Diferenças não comprovam erros contábeis."
+}

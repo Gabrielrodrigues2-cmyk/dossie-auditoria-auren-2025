@@ -1,0 +1,13 @@
+{
+  "status": "PASSOU",
+  "linhas": 500000,
+  "ids_unicos": 500000,
+  "saldos_rs": {
+    "DIREITO_USO_ARRENDAMENTO": 140111000,
+    "IMOBILIZADO_OPERACAO": 25430247000
+  },
+  "alertas_plantados_por_tipo": "consultar gabarito separado; não disponível na base cega",
+  "documentos_repetidos": 200,
+  "sha256_gzip": "bfd1bac748c246d0bd7768688a2816c1a2ca20116a804f678669973cbbf85971",
+  "ressalva": "A base V2 é a população principal e não possui coluna de alertas; gabarito segregado."
+}

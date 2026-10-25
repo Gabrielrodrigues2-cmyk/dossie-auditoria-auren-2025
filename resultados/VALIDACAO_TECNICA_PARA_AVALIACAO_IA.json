@@ -1,0 +1,11 @@
+{
+  "status": "PASSOU_CONTROLES_TECNICOS",
+  "pt": 27,
+  "registros": 500000,
+  "ids_unicos": 500000,
+  "saldo_rs": 25570358000,
+  "ids_sinalizados": 982,
+  "paginas_pdf": 130,
+  "sha256_pdf": "0b8b2f681eb352cb305aca503310b09cccbe3abefd88464f1aa9d0b46d313f3b",
+  "nota": "Integridade técnica não certifica mérito, suficiência de evidência nem vigência de normas."
+}
