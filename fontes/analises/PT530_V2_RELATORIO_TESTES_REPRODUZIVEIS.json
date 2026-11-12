@@ -1,0 +1,26 @@
+{
+  "classificacao": "SD — população V2 sintética, não ativos da Auren",
+  "seed_amostra": 20251023,
+  "populacao_total": 500000,
+  "alocacao_amostra": {
+    "IMOBILIZADO_OPERACAO": 597,
+    "DIREITO_USO_ARRENDAMENTO": 3
+  },
+  "amostra_total": 600,
+  "saldo_2025_rs": {
+    "DIREITO_USO_ARRENDAMENTO": 140111000,
+    "IMOBILIZADO_OPERACAO": 25430247000
+  },
+  "anomalias_plantadas_registros_distintos": 1284,
+  "ids_com_alerta_textual": "não aplicável: coluna removida da base pública",
+  "ids_documento_duplicado": 400,
+  "ids_detectados_por_alerta_ou_documento_duplicado": 400,
+  "ids_gabarito_e_detectados": 201,
+  "ids_detectados_nao_gabarito": 199,
+  "ids_gabarito_nao_detectados": 1083,
+  "amostra_com_anomalia_plantada": 1,
+  "amostra_com_alerta_ou_documento_duplicado": 0,
+  "amostra_com_alerta_e_gabarito": 0,
+  "anomalias_por_tipo": "consultar exclusivamente gabarito segregado",
+  "observacao": "A triagem deste script verifica exclusivamente duplicidade documental e não lê rótulos de plantio. Gabarito consultado depois da triagem. Não projetar taxa de erros contábeis para a Auren; não há evidência real. Amostra não demonstra nível estatístico de confiança sem modelo de risco e erro tolerável."
+}

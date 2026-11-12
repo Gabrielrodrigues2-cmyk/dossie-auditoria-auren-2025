@@ -1,0 +1,19 @@
+{
+  "classificacao": "SD — teste baseado apenas em campos analiticos, sem acesso a dados reais",
+  "populacao": 500000,
+  "saldo_por_escopo_rs": {
+    "DIREITO_USO_ARRENDAMENTO": 140111000,
+    "IMOBILIZADO_OPERACAO": 25430247000
+  },
+  "ids_detectados_sem_ler_alertas": 982,
+  "ids_com_anomalia_plantada": 1284,
+  "verdadeiros_positivos_por_id": 783,
+  "falsos_positivos_por_id": 199,
+  "nao_detectados_por_id": 501,
+  "contagem_marcadores_por_tipo": {
+    "CORTE_POSTERIOR_A_2025": 333,
+    "VIDA_UTIL_ACIMA_DE_80_ANOS": 250,
+    "DOCUMENTO_REPETIDO": 400
+  },
+  "limites": "Nao testa suporte documental: dados sem arquivos reais. Regra de vida util >80 anos e criterio DIDATICO. Duplicata sinaliza ambas as pontas. Alertas sintéticos nao equivalem a distorções monetárias; nenhuma extrapolacao de perdas para Auren."
+}

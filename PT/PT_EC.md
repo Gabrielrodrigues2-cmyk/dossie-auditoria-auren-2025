@@ -1,6 +1,6 @@
 # PT EC — Critérios, evidência e natureza do trabalho
 
-**REFERÊNCIA DA POPULAÇÃO SINTÉTICA OFICIAL (SD):** V2 reproduzível, 500.000 IDs; testes: `codigo/28_pt530_v2_testes_reproduziveis.py` e `codigo/29_teste_independente_v2.py`. A base histórica está arquivada e não fundamenta resultados finais. Detalhes e limitações em PT 530. **Revisão por terceiro: não realizada.**
+**BASE SINTÉTICA PRINCIPAL [SD]:** **V3**, N=500.000, `dados_sinteticos_v3/IMOBILIZADO_500000_V3_CEGO.csv.gz`; dicionário: `documentacao/DICIONARIO_V3.md`. A amostragem corrente e sua decisão estão em `codigo/47_pt530_amostragem_v3_estatistica.py` e `analises/PT530_V3_PLANO_E_RESULTADOS.json`. **V2 é exclusivamente histórico metodológico**, `dados_sinteticos_v2/imobilizado_500000_v2_REGERADO.csv.gz`, com resultados isolados sob prefixo `PT530_V2_`; não sustenta a conclusão estatística corrente. Revisão independente: não realizada.
 **Entidade:** Auren Energia S.A. | **Exercício:** 2025 | **Preparador:** matrícula 232037730 | **Data:** 23/10/2026 | **Revisão:** não realizada.
 
 **Natureza:** trabalho acadêmico, sem contratação de auditoria e sem emissão de opinião independente. **RP:** procedimento público realizado; **PA:** procedimento planejado e não executado; **SD:** simulação didática.
@@ -85,3 +85,10 @@ As referências históricas assinaladas como não entregues não constituem evid
 **Efeito preciso na conclusão:** A conclusão é pedagógica; não constitui emissão de asseguração.
 
 **Revisão crítica da classificação:** este bloco distingue constatação documental, demonstração sintética e planejamento. Revisor independente: ____________________ (não realizado).
+
+
+## Controle de versão — V3 vigente (12/11/2026)
+
+**BASE SINTÉTICA PRINCIPAL [SD]:** **V3**, N=500.000, `dados_sinteticos_v3/IMOBILIZADO_500000_V3_CEGO.csv.gz`; dicionário: `documentacao/DICIONARIO_V3.md`. A amostragem corrente e sua decisão estão em `codigo/47_pt530_amostragem_v3_estatistica.py` e `analises/PT530_V3_PLANO_E_RESULTADOS.json`. **V2 é exclusivamente histórico metodológico**, `dados_sinteticos_v2/imobilizado_500000_v2_REGERADO.csv.gz`, com resultados isolados sob prefixo `PT530_V2_`; não sustenta a conclusão estatística corrente. Revisão independente: não realizada.
+
+Resultados **V2** são mantidos apenas para estudo comparativo e nunca somados aos resultados **V3**. Valores monetários simulados não constituem evidências sobre a Auren. Documentos identificados como históricos não entregues permanecem sem suporte e não são usados em conclusões [RP].

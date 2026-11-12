@@ -1,5 +1,5 @@
 ﻿Requisito,Arquivos corretos,Resultado de verificação,Status
-Dossiê PDF e cruzamentos,dossie/DOSSIE_AUREN_2025_REVISAO_NORMATIVA_OPERACIONAL.pdf,PRESENTE; PRESENTE — único PDF canônico; PT em PT/,OK
+Dossiê PDF e cruzamentos,dossie/DOSSIE_AUREN_2025_V3_VERSIONAMENTO_UNIFICADO.pdf,PRESENTE; PRESENTE — único PDF canônico; PT em PT/,OK
 27 papéis de trabalho,documentacao/MATRIZ_COBERTURA_NORMAS_ATUALIZADA.csv,PRESENTE; 27/27 verificados; relação individual em MATRIZ_COBERTURA_NORMAS_ATUALIZADA.csv,OK
 Base principal >=500 mil,dados_sinteticos_v3/IMOBILIZADO_500000_V3_CEGO.csv.gz,PRESENTE; 500.000 linhas — verificar pelo leitor CSV; fictícia,OK
 Dicionário da base principal,documentacao/DICIONARIO_V3.md,PRESENTE; 12 campos reais do CSV,OK

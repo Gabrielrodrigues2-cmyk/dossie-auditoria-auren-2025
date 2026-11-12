@@ -1,0 +1,40 @@
+{
+  "status": "PASSOU",
+  "base_principal": "dados_sinteticos_v2/imobilizado_500000_v2_REGERADO.csv.gz",
+  "linhas": 500000,
+  "amostra": 600,
+  "deteccoes_sem_coluna_alertas": 982,
+  "comandos": [
+    {
+      "codigo": "26_gerar_base_v2.py",
+      "retorno": 0,
+      "saida": "{\"natureza\": \"SD: nova base V2 independente; NAO reconstrucao da base historica\", \"seed\": 20251023, \"registros\": 500000, \"valores_publicos_usados_apenas_para_calibracao\": {\"DIREITO_USO_ARRENDAMENTO\": {\"registros\": 2720, \"saldo_liquido_rs\": 140111000}, \"IMOBILIZADO_OPERACAO\": {\"registros\": 497280, \"saldo_liquido_rs\": 25430247000}}, \"sha256_gzip\": \"bfd1bac748c246d0bd7768688a2816c1a2ca20116a804f678669973cbbf85971\", \"sha256_gabarito\": \"bc85a9c27c2e4c5030c144c589817a1859c60171b0e38fcba39f59f4ac91a273\"}\n",
+      "erro": ""
+    },
+    {
+      "codigo": "27_verificar_gerador_v2.py",
+      "retorno": 0,
+      "saida": "{\"status\": \"PASSOU\", \"linhas\": 500000, \"ids_unicos\": 500000, \"saldos_rs\": {\"DIREITO_USO_ARRENDAMENTO\": 140111000, \"IMOBILIZADO_OPERACAO\": 25430247000}, \"alertas_plantados_por_tipo\": \"consultar gabarito separado; não disponível na base cega\", \"documentos_repetidos\": 200, \"sha256_gzip\": \"bfd1bac748c246d0bd7768688a2816c1a2ca20116a804f678669973cbbf85971\", \"ressalva\": \"A base V2 é a população principal e não possui coluna de alertas; gabarito segregado.\"}\n",
+      "erro": ""
+    },
+    {
+      "codigo": "28_pt530_v2_testes_reproduziveis.py",
+      "retorno": 0,
+      "saida": "{\"classificacao\": \"SD — população V2 sintética, não ativos da Auren\", \"seed_amostra\": 20251023, \"populacao_total\": 500000, \"alocacao_amostra\": {\"IMOBILIZADO_OPERACAO\": 597, \"DIREITO_USO_ARRENDAMENTO\": 3}, \"amostra_total\": 600, \"saldo_2025_rs\": {\"DIREITO_USO_ARRENDAMENTO\": 140111000, \"IMOBILIZADO_OPERACAO\": 25430247000}, \"anomalias_plantadas_registros_distintos\": 1284, \"ids_com_alerta_textual\": \"não aplicável: coluna removida da base pública\", \"ids_documento_duplicado\": 400, \"ids_detectados_por_alerta_ou_documento_duplicado\": 400, \"ids_gabarito_e_detectados\": 201, \"ids_detectados_nao_gabarito\": 199, \"ids_gabarito_nao_detectados\": 1083, \"amostra_com_anomalia_plantada\": 1, \"amostra_com_alerta_ou_documento_duplicado\": 0, \"amostra_com_alerta_e_gabarito\": 0, \"anomalias_por_tipo\": \"consultar exclusivamente gabarito segregado\", \"observacao\": \"A triagem deste script verifica exclusivamente duplicidade documental e não lê rótulos de plantio. Gabarito consultado depois da triagem. Não projetar taxa de erros contábeis para a Auren; não há evidência real. Amostra não demonstra nível estatístico de confiança sem modelo de risco e erro tolerável.\"}\n",
+      "erro": ""
+    },
+    {
+      "codigo": "29_teste_independente_v2.py",
+      "retorno": 0,
+      "saida": "{\"classificacao\": \"SD — teste baseado apenas em campos analiticos, sem acesso a dados reais\", \"populacao\": 500000, \"saldo_por_escopo_rs\": {\"DIREITO_USO_ARRENDAMENTO\": 140111000, \"IMOBILIZADO_OPERACAO\": 25430247000}, \"ids_detectados_sem_ler_alertas\": 982, \"ids_com_anomalia_plantada\": 1284, \"verdadeiros_positivos_por_id\": 783, \"falsos_positivos_por_id\": 199, \"nao_detectados_por_id\": 501, \"contagem_marcadores_por_tipo\": {\"CORTE_POSTERIOR_A_2025\": 333, \"VIDA_UTIL_ACIMA_DE_80_ANOS\": 250, \"DOCUMENTO_REPETIDO\": 400}, \"limites\": \"Nao testa suporte documental: dados sem arquivos reais. Regra de vida util >80 anos e criterio DIDATICO. Duplicata sinaliza ambas as pontas. Alertas sintéticos nao equivalem a distorções monetárias; nenhuma extrapolacao de perdas para Auren.\"}\n",
+      "erro": ""
+    },
+    {
+      "codigo": "13_conciliacao_nota13.py",
+      "retorno": 0,
+      "saida": "Saldo nota 13(a): 25430247 R$ mil; + direito de uso: 25570358 R$ mil; diferença: 0\n",
+      "erro": ""
+    }
+  ],
+  "observacao": "SD, não evidencia de auditoria de ativos reais da Auren"
+}

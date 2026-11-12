@@ -1,3 +1,5 @@
+> **Versão sintética vigente:** V3 é a base principal; V2, quando referida, é apenas trilha histórica. Ver `documentacao/PROTOCOLO_VERSIONAMENTO_V3_2026.md`.
+
 # Programa de trabalho — PT 510: Saldos iniciais
 
 **Empresa / exercício:** Auren Energia S.A. / 2025  

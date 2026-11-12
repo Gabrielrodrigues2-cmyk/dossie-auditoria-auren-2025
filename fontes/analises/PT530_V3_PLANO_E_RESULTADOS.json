@@ -1,0 +1,51 @@
+{
+  "natureza": "SD EXCLUSIVAMENTE; NAO AMOSTRA DE CONTAS REAIS DA AUREN",
+  "base_primaria": "V3",
+  "seed": 20261111,
+  "N": 500000,
+  "n": 600,
+  "estratos": [
+    {
+      "estrato": "IMOBILIZADO_OPERACAO",
+      "N": 497280,
+      "n": 450,
+      "desvios_detectaveis_observados": 0,
+      "taxa_amostral": 0.0,
+      "limite_superior_unilateral_95_CP": 0.006635072879038584,
+      "taxa_toleravel_planejamento": 0.02,
+      "conclusao": "LIMITE_SUPERIOR_ATE_TOLERANCIA",
+      "escopo": "Atributos visíveis fictícios; não inferir erro monetário"
+    },
+    {
+      "estrato": "DIREITO_USO_ARRENDAMENTO",
+      "N": 2720,
+      "n": 150,
+      "desvios_detectaveis_observados": 1,
+      "taxa_amostral": 0.006666666666666667,
+      "limite_superior_unilateral_95_CP": 0.031233816920942903,
+      "taxa_toleravel_planejamento": 0.02,
+      "conclusao": "LIMITE_SUPERIOR_ACIMA_TOLERANCIA",
+      "escopo": "Atributos visíveis fictícios; não inferir erro monetário"
+    }
+  ],
+  "itens_certeza": 40,
+  "certos_ja_na_amostra": 0,
+  "regra_aceitacao": "comparar limite superior unilateral Clopper-Pearson (binomial conservador) a taxa toleravel de 2% por estrato; controle matematico, nao seguranca de auditoria",
+  "confianca_planejamento": 0.95,
+  "limite_95_sem_desvios_n150": 0.01977343816450844,
+  "avaliacao_gabarito_somente_apos_criterio": {
+    "selecionados_com_plantio": 2,
+    "detectados_no_conjunto_selecionado": 1,
+    "detectados_plantados": 1,
+    "selecionados_plantados_nao_detectados": 1,
+    "detectados_sem_plantio": 0,
+    "denominador": 600
+  },
+  "avisos": [
+    "desvios sao apenas atributos sintéticos observáveis; não são fraude nem distorção da Auren",
+    "suporte indisponível no gabarito não é detectável em uma base sem documentos independentes",
+    "n=600 e 40 itens de certeza não são MUS e não permitem projetar montantes monetários",
+    "a aproximação binomial é conservadora em relação a amostragem finita sem reposição e pressupõe amostragem equiprovável dentro de cada estrato",
+    "amostragem por atributos é distinta do exame dos 40 itens de certeza"
+  ]
+}

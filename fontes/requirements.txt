@@ -1,0 +1,5 @@
+PyMuPDF==1.26.7
+reportlab==4.4.9
+pypdf==5.9.0
+# A regeneração da planilha XLSX utiliza artifact_tool do ambiente de produção;
+# se indisponível, usar o XLSX incluído e o CSV de origem, que permanece reproduzível.

@@ -7,7 +7,7 @@ for pid in PIDS:
  for f in [f'PT/PT_{pid}.md',f'programas/PROGRAMA_PT_{pid}.md']:
   assert (ROOT/f).is_file(),f
 assert len(list((ROOT/'dossie').glob('*.pdf')))==1
-assert (ROOT/'dossie/DOSSIE_AUREN_2025_REVISAO_NORMATIVA_OPERACIONAL.pdf').is_file()
+assert (ROOT/'dossie/DOSSIE_AUREN_2025_CORRIGIDO_APOS_AVALIACAO.pdf').is_file()
 with gzip.open(ROOT/'dados_sinteticos_v3/IMOBILIZADO_500000_V3_CEGO.csv.gz','rt',encoding='utf-8-sig',newline='') as f:
  r=csv.DictReader(f); assert len(r.fieldnames)==12 and 'alertas' not in r.fieldnames
  n=0; ids=set()

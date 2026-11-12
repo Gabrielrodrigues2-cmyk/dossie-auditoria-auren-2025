@@ -1,0 +1,24 @@
+{
+  "fonte": "DFP Auren 2025, Relatório Administração PDF físico p.59 (impresso 58) e DRE PDF físico p.19 (impresso 18)",
+  "comparacao": [
+    {
+      "exercicio": "2025",
+      "relatorio_administracao_RSmilhoes_1_decimal": -557.9,
+      "DRE_consolidada_RSmilhoes": -557.875,
+      "diferenca_arredondamento_RSmilhoes": -0.025,
+      "conclusao": "COINCIDE por arredondamento a 1 casa decimal",
+      "pagina_relatorio_administracao_pdf": 59,
+      "pagina_DRE_pdf": 19
+    },
+    {
+      "exercicio": "2024",
+      "relatorio_administracao_RSmilhoes_1_decimal": 271.9,
+      "DRE_consolidada_RSmilhoes": 271.869,
+      "diferenca_arredondamento_RSmilhoes": 0.031,
+      "conclusao": "COINCIDE por arredondamento a 1 casa decimal",
+      "pagina_relatorio_administracao_pdf": 59,
+      "pagina_DRE_pdf": 19
+    }
+  ],
+  "caveat": "R$ milhões arredondados a uma casa decimal na administração; conciliação documental textual+visual, não validação independente de resultado contábil"
+}

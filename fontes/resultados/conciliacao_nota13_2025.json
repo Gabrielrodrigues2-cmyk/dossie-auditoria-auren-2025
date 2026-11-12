@@ -1,0 +1,32 @@
+{
+  "fonte": "DFP Auren Energia S.A. 31/12/2025, Nota 13(a), pagina impressa 95 de 157; balanço consolidado, conferir página física e impressa no PDF local",
+  "unidade": "R$ mil",
+  "movimentacao": {
+    "Saldo inicial": 26183375,
+    "Adições": 1015698,
+    "Substituição itens garantia": 1011,
+    "Remensuração desmobilização": -26894,
+    "Baixas": -49448,
+    "Depreciação": -1354365,
+    "Amortização ajuste valor justo": -52204,
+    "Empresa incorporada": 699,
+    "Transferência ativos indenização": -11245,
+    "Transferência contas a receber": -6082,
+    "Transferências": -270298
+  },
+  "saldo_final_imobilizado_operacao": 25430247,
+  "componentes_publicados": {
+    "Custo bruto": 42273221,
+    "Depreciação acumulada": -17822049,
+    "Ajuste valor justo PPA": 1230019,
+    "Amortização acumulada do ajuste valor justo": -250944
+  },
+  "soma_componentes": 25430247,
+  "direito_uso_balanco": 140111,
+  "saldo_total_balanco": 25570358,
+  "comparacao_base_sintetica": {
+    "saldo_liquido_calibrado_rs_mil": 25570358,
+    "observacao": "A base V2 concilia SOMENTE saldo líquido, com custos e depreciações hipotéticos diferentes dos componentes da Nota 13(a). Não representa cadastro real."
+  },
+  "alerta": "Conciliação RP dos saldos publicados não constitui validação independente de ativos individuais."
+}

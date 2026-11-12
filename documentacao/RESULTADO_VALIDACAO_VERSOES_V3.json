@@ -1,0 +1,20 @@
+{
+  "corrigido_em": "2026-11-12",
+  "versao_principal": "V3",
+  "v2": "historico exclusivamente",
+  "validadores": {
+    "49_validar_correcao_professor.py": {
+      "returncode": 0,
+      "output": "{\"status\": \"PASSOU\", \"pt\": 27, \"base_v3_linhas\": 500000, \"amostra_v3\": 600, \"certeza\": 40, \"receita_segmentos_mil\": 13176952, \"criterios\": 7}\n",
+      "stderr": ""
+    },
+    "50_validar_versionamento_v3.py": {
+      "returncode": 0,
+      "output": "{\n  \"status\": \"PASSOU\",\n  \"versao_principal\": \"V3\",\n  \"v2\": \"HISTORICO\",\n  \"pt\": 27,\n  \"populacao_v3\": 500000,\n  \"n_amostra_v3\": 600,\n  \"itens_certeza_v3\": 40,\n  \"intervalos_95\": [\n    0.006635,\n    0.031234\n  ],\n  \"limite\": \"Dados sintéticos e documentação; não asseguração sobre Auren\"\n}\n",
+      "stderr": ""
+    }
+  },
+  "pdf": "dossie/DOSSIE_AUREN_2025_V3_VERSIONAMENTO_UNIFICADO.pdf",
+  "pt": 27,
+  "observacao": "Verificação de integridade/documentação; não asseguração independente"
+}

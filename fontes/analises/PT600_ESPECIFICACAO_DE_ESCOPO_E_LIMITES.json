@@ -1,0 +1,37 @@
+{
+  "natureza": "SD planejamento didático com números de segmentos RP; não é materialidade aprovada pelo auditor do grupo",
+  "fonte": "DFP Auren 2025, Nota 4, página física 78, e BP consolidado, página física 15",
+  "unidade": "R$ milhares",
+  "ativo_consolidado": 48727388,
+  "materialidade_global_proposta": 243636.94,
+  "materialidade_execucao_global_proposta": 170545.858,
+  "limite_trivial_global_proposto": 12181.847,
+  "receita_por_segmentos_mais_eliminacoes": 13176952,
+  "receita_consolidada_dfp": 13176952,
+  "resultado_operacional_segmentos_mais_ajustes": 2390401,
+  "resultado_operacional_consolidado_extraido": 2110777,
+  "diferenca_resultado_operacional_sem_conciliacao": 279624,
+  "ressalva_resultado_operacional": "A coluna de resultado operacional não fecha na extração textual; não afirmar reconciliação desse subtotal até inspeção gráfica e reconciliação independente",
+  "limiares_por_cluster": {
+    "SEG_GERACAO": 32780.525,
+    "SEG_COMERCIALIZACAO": 46222.005,
+    "SEG_HOLDING": 6609.93,
+    "AJUSTES_CONSOLIDACAO": 6558.885
+  },
+  "soma_limiares": 92171.345,
+  "soma_menor_que_performance_global": true,
+  "limitacoes": [
+    "segmentos operacionais são agrupamentos públicos e não equivalem necessariamente a componentes jurídicos para a NBC TA 600",
+    "benchmarks e percentuais são julgamento didático ilustrativo, não norma CFC nem orientação da PwC",
+    "não inferir ativos/receitas por pessoa jurídica nem atestar competência de auditores de componentes",
+    "uma vez identificadas entidades e pacotes reais, materialidade por componente deve ser recalculada com riscos específicos, agregação e decisão do auditor de grupo",
+    "a soma dos quatro limiares não prova que o risco agregado está aceitável; a restrição por soma é salvaguarda didática adicional"
+  ],
+  "adicionais_PA": [
+    "obter balancetes e consolidação por entidade em 31/12/2025",
+    "definir componentes reais significativos e selecionar trabalho",
+    "avaliar identificação de riscos específicos, incluindo receitas e eliminação",
+    "definir e comunicar materialidade de componente, limiar de reporte e testes",
+    "executar controle de qualidade e revisão dos auditores de componentes"
+  ]
+}

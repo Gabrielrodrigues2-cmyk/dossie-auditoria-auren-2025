@@ -1,0 +1,614 @@
+﻿escopo,demonstracao,codigo_conta_CVM,descricao_CVM,valor_cvm_RSmil,arquivo_origem,versao,escala
+CONSOLIDADO,BP,1,Ativo Total,48727388.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01,Ativo Circulante,8460107.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.01,Caixa e Equivalentes de Caixa,3826127.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.02,Aplicações Financeiras,556295.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.02.01.01,Títulos para Negociação,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.02.01.02,Títulos Designados a Valor Justo,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.03,Contas a Receber,1712414.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.03.01,Clientes,1712414.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.03.02,Outras Contas a Receber,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.04,Estoques,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.05,Ativos Biológicos,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.06,Tributos a Recuperar,289189.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.06.01,Tributos Correntes a Recuperar,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.07,Despesas Antecipadas,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08,Outros Ativos Circulantes,2076082.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08.01,Ativos Não-Correntes a Venda,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08.02,Ativos de Operações Descontinuadas,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08.03,Outros,2076082.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08.03.01,Fundo de liquidez - Conta reserva,110694.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08.03.02,Partes relacionadas,2012.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08.03.03,Ordens de projetos - P&D,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08.03.04,Contratos futuros de energia,1514557.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08.03.05,Outros ativos,203050.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08.03.06,Ativos indenizáveis pela União,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08.03.07,Instrumentos financeiros derivativos,139.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08.03.08,Dividendos a receber,152515.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08.03.09,Cauções e depósitos judiciais,3544.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08.03.10,Ressarcimento,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.01.08.03.11,Recebíveis de alienação de participação societária,89571.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02,Ativo Não Circulante,40267281.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01,Ativo Realizável a Longo Prazo,5364266.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.01.01,Títulos Designados a Valor Justo,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.04,Contas a Receber,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.04.01,Clientes,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.04.02,Outras Contas a Receber,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.05,Estoques,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.06,Ativos Biológicos,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.07,Tributos Diferidos,1942725.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,1942725.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.08,Despesas Antecipadas,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.09,Créditos com Partes Relacionadas,60654.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.09.01,Créditos com Coligadas,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.09.03,Créditos com Controladores,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.09.04,Créditos com Outras Partes Relacionadas,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.10,Outros Ativos Não Circulantes,3360887.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.10.01,Ativos Não-Correntes a Venda,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.10.02,Ativos de Operações Descontinuadas,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.10.03,Fundo de liquidez - Conta reserva,963912.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.10.04,Cauções e depósitos judiciais,74804.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.10.05,Outros ativos,27428.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.10.06,Contratos futuros de energia,1470594.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.10.07,Ativo sujeito à indenização,498815.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.10.08,Ativos indenizáveis pela União,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.10.09,Tributos a recuperar,106169.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.10.10,Instrumentos financeiros derivativos,179035.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.10.11,Ressarcimento,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.10.12,Ativo sujeito à indenização,2790.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.01.10.13,Recebíveis de alienação de participação societária,37340.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.02,Investimentos,2131020.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.02.01,Participações Societárias,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.02.01.01,Participações em Coligadas,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.02.01.04,Participações em Controladas em Conjunto,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.02.01.05,Outros Investimentos,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.02.02,Propriedades para Investimento,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.03,Imobilizado,25570358.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.03.01,Imobilizado em Operação,25430247.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.03.02,Direito de Uso em Arrendamento,140111.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.03.03,Imobilizado em Andamento,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.04,Intangível,7201637.0000000000,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.04.01,Intangíveis,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.04.01.01,Contrato de Concessão,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.04.01.02,Intangíveis,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+CONSOLIDADO,BP,1.02.04.02,Goodwill,0E-10,dfp_cia_aberta_BPA_con_2025.csv,1,MIL
+INDIVIDUAL,BP,1,Ativo Total,17164815.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01,Ativo Circulante,782008.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.01,Caixa e Equivalentes de Caixa,292443.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.02,Aplicações Financeiras,11247.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.02.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.02.01.01,Títulos para Negociação,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.02.01.02,Títulos Designados a Valor Justo,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.02.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.02.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.03,Contas a Receber,2700.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.03.01,Clientes,2700.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.03.02,Outras Contas a Receber,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.04,Estoques,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.05,Ativos Biológicos,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.06,Tributos a Recuperar,53678.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.06.01,Tributos Correntes a Recuperar,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.07,Despesas Antecipadas,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.08,Outros Ativos Circulantes,421940.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.08.01,Ativos Não-Correntes a Venda,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.08.02,Ativos de Operações Descontinuadas,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.08.03,Outros,421940.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.08.03.01,Fundo de liquidez - Conta reserva,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.08.03.02,Partes relacionadas,86330.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.08.03.03,Ordens de projetos - P&D,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.08.03.04,Contratos futuros de energia,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.08.03.05,Outros ativos,2344.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.08.03.06,Ativos indenizáveis pela União,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.08.03.07,Instrumentos financeiros derivativos,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.08.03.08,Dividendos a receber,333266.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.08.03.09,Cauções e depósitos judiciais,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.01.08.03.10,Ressarcimento,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02,Ativo Não Circulante,16382807.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01,Ativo Realizável a Longo Prazo,115900.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.01,Aplicações Financeiras Avaliadas a Valor Justo através do Resultado,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.01.01,Títulos Designados a Valor Justo,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.02,Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.03,Aplicações Financeiras Avaliadas ao Custo Amortizado,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.04,Contas a Receber,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.04.01,Clientes,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.04.02,Outras Contas a Receber,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.05,Estoques,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.06,Ativos Biológicos,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.07,Tributos Diferidos,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.07.01,Imposto de Renda e Contribuição Social Diferidos,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.08,Despesas Antecipadas,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.09,Créditos com Partes Relacionadas,109164.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.09.01,Créditos com Coligadas,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.09.02,Créditos com Controladas,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.09.03,Créditos com Controladores,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.09.04,Créditos com Outras Partes Relacionadas,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.10,Outros Ativos Não Circulantes,6736.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.10.01,Ativos Não-Correntes a Venda,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.10.02,Ativos de Operações Descontinuadas,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.10.03,Fundo de liquidez - Conta reserva,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.10.04,Cauções e depósitos judiciais,473.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.10.05,Outros ativos,6263.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.10.06,Contratos futuros de energia,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.10.07,Ativo sujeito à indenização,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.10.08,Ativos indenizáveis pela União,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.10.09,Tributos a recuperar,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.10.10,Instrumentos financeiros derivativos,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.01.10.11,Ressarcimento,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.02,Investimentos,16050220.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.02.01,Participações Societárias,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.02.01.01,Participações em Coligadas,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.02.01.02,Participações em Controladas,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.02.01.03,Participações em Controladas em Conjunto,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.02.01.04,Outros Investimentos,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.02.02,Propriedades para Investimento,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.03,Imobilizado,37635.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.03.01,Imobilizado em Operação,18882.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.03.02,Direito de Uso em Arrendamento,18753.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.03.03,Imobilizado em Andamento,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.04,Intangível,179052.0000000000,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.04.01,Intangíveis,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.04.01.01,Contrato de Concessão,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,1.02.04.01.02,Intangíveis,0E-10,dfp_cia_aberta_BPA_ind_2025.csv,1,MIL
+CONSOLIDADO,BP,2,Passivo Total,48727388.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01,Passivo Circulante,6401179.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.01,Obrigações Sociais e Trabalhistas,118193.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.01.01,Obrigações Sociais,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.01.02,Obrigações Trabalhistas,118193.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.01.02.01,Obrigações estimadas e folha de pagamento,118193.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.02,Fornecedores,1461984.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.02.01,Fornecedores Nacionais,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.02.02,Fornecedores Estrangeiros,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.03,Obrigações Fiscais,163314.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.03.01,Obrigações Fiscais Federais,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.03.02,Obrigações Fiscais Estaduais,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.03.03,Obrigações Fiscais Municipais,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.04,Empréstimos e Financiamentos,1949605.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.04.01,Empréstimos e Financiamentos,1938340.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.04.01.01,Em Moeda Nacional,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.04.01.02,Em Moeda Estrangeira,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.04.02,Debêntures,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.04.03,Financiamento por Arrendamento,11265.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05,Outras Obrigações,2708083.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.01,Passivos com Partes Relacionadas,240.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.01.01,Débitos com Coligadas,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.01.03,Débitos com Controladores,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.01.04,Débitos com Outras Partes Relacionadas,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.02,Outros,2707843.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.02.01,Dividendos e JCP a Pagar,44091.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.02.04,Instrumentos financeiros derivativos,190187.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.02.05,Contratos futuros de energia,1293731.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.02.06,Encargos setoriais,54414.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.02.07,UBP - Uso do bem público,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.02.08,Obrigações socioambientais e desmobilização de ativos,40479.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.02.09,Outros passivos,64688.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.02.10,Provisão de ressarcimento,900907.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.05.02.11,Provisão para litígios,119346.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.06,Provisões,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.06.01.01,Provisões Fiscais,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.06.01.03,Provisões para Benefícios a Empregados,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.06.01.04,Provisões Cíveis,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.06.02,Outras Provisões,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.06.02.01,Provisões para Garantias,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.06.02.02,Provisões para Reestruturação,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02,Passivo Não Circulante,28550746.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.01,Empréstimos e Financiamentos,22735718.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.01.01,Empréstimos e Financiamentos,22582913.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.01.01.01,Em Moeda Nacional,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.01.01.02,Em Moeda Estrangeira,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.01.02,Debêntures,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.01.03,Financiamento por Arrendamento,152805.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02,Outras Obrigações,3143316.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.01,Passivos com Partes Relacionadas,154949.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.01.01,Débitos com Coligadas,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.01.03,Débitos com Controladores,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.01.04,Débitos com Outras Partes Relacionadas,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.02,Outros,2988367.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.02.03,Fornecedores,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.02.04,Outros passivos,63860.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.02.05,Contratos futuros de energia,1373197.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.02.06,Encargos setoriais,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.02.07,Tributos a recolher,23954.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.02.08,UBP - Uso do bem público,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.02.09,Obrigações socioambientais e desmobilização de ativos,433668.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.02.10,Benefícios pós-emprego,946394.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.02.11,Instrumentos financeiros derivativos,3675.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.02.12,Obrigações a pagar com investidas,784.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.02.02.13,Obrigações de alienação de participação societária,142835.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.03,Tributos Diferidos,1279815.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,1279815.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.04,Provisões,1391897.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.04.01.01,Provisões Fiscais,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.04.01.03,Provisões para Benefícios a Empregados,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.04.01.04,Provisões Cíveis,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.04.02,Outras Provisões,1391897.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.04.02.01,Provisões para Garantias,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.04.02.02,Provisões para Reestruturação,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.04.02.04,Provisão de ressarcimento,688480.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.04.02.05,Provisão para litígios,703417.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.06,Lucros e Receitas a Apropriar,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.06.01,Lucros a Apropriar,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.06.02,Receitas a Apropriar,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.02.06.03,Subvenções de Investimento a Apropriar,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03,Patrimônio Líquido Consolidado,13775463.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.01,Capital Social Realizado,6187772.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.02,Reservas de Capital,5931974.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.02.01,Ágio na Emissão de Ações,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.02.02,Reserva Especial de Ágio na Incorporação,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.02.03,Alienação de Bônus de Subscrição,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.02.04,Opções Outorgadas,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.02.05,Ações em Tesouraria,-59160.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.02.06,Adiantamento para Futuro Aumento de Capital,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.02.07,Reservas de Capital,5991134.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.03,Reservas de Reavaliação,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.04,Reservas de Lucros,259912.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.04.01,Reserva Legal,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.04.02,Reserva Estatutária,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.04.03,Reserva para Contingências,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.04.04,Reserva de Lucros a Realizar,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.04.05,Reserva de Retenção de Lucros,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.04.07,Reserva de Incentivos Fiscais,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.04.08,Dividendo Adicional Proposto,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.04.09,Ações em Tesouraria,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.05,Lucros/Prejuízos Acumulados,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.06,Ajustes de Avaliação Patrimonial,129104.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.07,Ajustes Acumulados de Conversão,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.08,Outros Resultados Abrangentes,0E-10,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+CONSOLIDADO,BP,2.03.09,Participação dos Acionistas Não Controladores,1266701.0000000000,dfp_cia_aberta_BPP_con_2025.csv,1,MIL
+INDIVIDUAL,BP,2,Passivo Total,17164815.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01,Passivo Circulante,165919.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.01,Obrigações Sociais e Trabalhistas,50910.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.01.01,Obrigações Sociais,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.01.02,Obrigações Trabalhistas,50910.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.01.02.01,Obrigações estimadas e folha de pagamento,50910.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.02,Fornecedores,22453.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.02.01,Fornecedores Nacionais,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.02.02,Fornecedores Estrangeiros,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.03,Obrigações Fiscais,3149.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.03.01,Obrigações Fiscais Federais,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.03.01.01,Imposto de Renda e Contribuição Social a Pagar,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.03.02,Obrigações Fiscais Estaduais,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.03.03,Obrigações Fiscais Municipais,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.04,Empréstimos e Financiamentos,88057.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.04.01,Empréstimos e Financiamentos,83287.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.04.01.01,Em Moeda Nacional,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.04.01.02,Em Moeda Estrangeira,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.04.02,Debêntures,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.04.03,Financiamento por Arrendamento,4770.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05,Outras Obrigações,1350.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.01,Passivos com Partes Relacionadas,383.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.01.01,Débitos com Coligadas,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.01.02,Débitos com Controladas,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.01.03,Débitos com Controladores,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.01.04,Débitos com Outras Partes Relacionadas,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.02,Outros,967.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.02.01,Dividendos e JCP a Pagar,447.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.02.02,Dividendo Mínimo Obrigatório a Pagar,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.02.03,Obrigações por Pagamentos Baseados em Ações,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.02.04,Instrumentos financeiros derivativos,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.02.05,Contratos futuros de energia,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.02.06,Encargos setoriais,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.02.07,UBP - Uso do bem público,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.02.08,Obrigações socioambientais e desmobilização de ativos,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.02.09,Outros passivos,284.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.02.10,Provisão de ressarcimento,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.05.02.11,Provisão para litígios,236.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.06,Provisões,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.06.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.06.01.01,Provisões Fiscais,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.06.01.02,Provisões Previdenciárias e Trabalhistas,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.06.01.03,Provisões para Benefícios a Empregados,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.06.01.04,Provisões Cíveis,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.06.02,Outras Provisões,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.06.02.01,Provisões para Garantias,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.06.02.02,Provisões para Reestruturação,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.06.02.03,Provisões para Passivos Ambientais e de Desativação,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.07,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.07.01,Passivos sobre Ativos Não-Correntes a Venda,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.01.07.02,Passivos sobre Ativos de Operações Descontinuadas,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02,Passivo Não Circulante,4490134.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.01,Empréstimos e Financiamentos,2921949.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.01.01,Empréstimos e Financiamentos,2907940.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.01.01.01,Em Moeda Nacional,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.01.01.02,Em Moeda Estrangeira,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.01.02,Debêntures,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.01.03,Financiamento por Arrendamento,14009.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02,Outras Obrigações,116528.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.01,Passivos com Partes Relacionadas,98642.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.01.01,Débitos com Coligadas,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.01.02,Débitos com Controladas,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.01.03,Débitos com Controladores,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.01.04,Débitos com Outras Partes Relacionadas,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.02,Outros,17886.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.02.01,Obrigações por Pagamentos Baseados em Ações,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.02.02,Adiantamento para Futuro Aumento de Capital,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.02.03,Fornecedores,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.02.04,Outros passivos,17886.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.02.05,Contratos futuros de energia,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.02.06,Encargos setoriais,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.02.07,Tributos a recolher,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.02.08,UBP - Uso do bem público,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.02.09,Obrigações socioambientais e desmobilização de ativos,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.02.10,Benefícios pós-emprego,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.02.02.11,Instrumentos financeiros derivativos,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.03,Tributos Diferidos,1451654.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.03.01,Imposto de Renda e Contribuição Social Diferidos,1451654.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.04,Provisões,3.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.04.01,Provisões Fiscais Previdenciárias Trabalhistas e Cíveis,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.04.01.01,Provisões Fiscais,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.04.01.02,Provisões Previdenciárias e Trabalhistas,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.04.01.03,Provisões para Benefícios a Empregados,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.04.01.04,Provisões Cíveis,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.04.02,Outras Provisões,3.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.04.02.01,Provisões para Garantias,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.04.02.02,Provisões para Reestruturação,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.04.02.03,Provisões para Passivos Ambientais e de Desativação,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.04.02.04,Provisão de ressarcimento,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.04.02.05,Provisão para litígios,3.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.05,Passivos sobre Ativos Não-Correntes a Venda e Descontinuados,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.05.01,Passivos sobre Ativos Não-Correntes a Venda,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.05.02,Passivos sobre Ativos de Operações Descontinuadas,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.06,Lucros e Receitas a Apropriar,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.06.01,Lucros a Apropriar,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.06.02,Receitas a Apropriar,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.02.06.03,Subvenções de Investimento a Apropriar,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03,Patrimônio Líquido,12508762.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.01,Capital Social Realizado,6187772.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.02,Reservas de Capital,5931974.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.02.01,Ágio na Emissão de Ações,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.02.02,Reserva Especial de Ágio na Incorporação,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.02.03,Alienação de Bônus de Subscrição,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.02.04,Opções Outorgadas,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.02.05,Ações em Tesouraria,-59160.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.02.06,Adiantamento para Futuro Aumento de Capital,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.02.07,Reservas de Capital,5991134.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.03,Reservas de Reavaliação,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.04,Reservas de Lucros,259912.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.04.01,Reserva Legal,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.04.02,Reserva Estatutária,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.04.03,Reserva para Contingências,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.04.04,Reserva de Lucros a Realizar,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.04.05,Reserva de Retenção de Lucros,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.04.06,Reserva Especial para Dividendos Não Distribuídos,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.04.07,Reserva de Incentivos Fiscais,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.04.08,Dividendo Adicional Proposto,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.04.09,Ações em Tesouraria,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.05,Lucros/Prejuízos Acumulados,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.06,Ajustes de Avaliação Patrimonial,129104.0000000000,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.07,Ajustes Acumulados de Conversão,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+INDIVIDUAL,BP,2.03.08,Outros Resultados Abrangentes,0E-10,dfp_cia_aberta_BPP_ind_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01,Caixa Líquido Atividades Operacionais,1394795.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01,Caixa Gerado nas Operações,4575414.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.01,Lucro (prejuízo) antes do imposto de renda e da contribuição social,-117814.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.02,Depreciação e amortização,1550238.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.03,Amortização de mais valia,372725.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.04,Ganho (perda) com venda de imobilizado e ativos disponíveis para venda,-9964.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.05,Instrumentos financeiros derivativos,48659.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.06,Rendimento sobre fundo de reserva,-124600.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.07,Equivalência patrimonial,-205347.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.08,Juros e variações monetárias,2805025.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.09,Apropriação de custos de captação,197381.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.10,Baixa de atualização monetária de depósitos judiciais e reversão de litígios,1706.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.11,Hedge financeiro sobre importação,0E-10,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.12,Contratos futuros de energia,-127887.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.13,Reversão (provisão) de impairment de ativo imobilizado e intangível,-325665.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.14,Provisão (reversão) para litígios e incentivo de longo prazo,-48552.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.15,Provisão (reversão) de ressarcimento e obrigações socioambientais,427684.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.16,Indenização de bens reversíveis,-142895.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.17,"Valor justo dos empréstimos, financiamentos e debêntures",15877.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.18,Atualizações de saldos,127546.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.19,Ajuste a valor presente,53834.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.01.20,"Baixa de imobilizado, intangível e direito de uso de arrendamentos",77463.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02,Variações nos Ativos e Passivos,-598434.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.01,Contas a receber de clientes,-290491.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.02,Tributos a recuperar,2722.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.03,Almoxarifado,0E-10,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.04,Cauções e depósitos judiciais,5517.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.05,Partes relacionadas,-2577.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.06,Demais créditos e outros ativos,-143005.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.07,Fornecedores,188176.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.08,Instrumentos financeiros derivativos,126568.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.09,Obrigações estimadas e folha de pagamento,347.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.10,Tributos a recolher,-72354.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.11,Encargos setoriais,14791.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.12,Pagamento de obrigações socioambientais,-22070.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.13,Pagamento de UBP - Uso do bem público,-11854.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.14,"Pagamento de litígios, obrigações e acordos judiciais",-77555.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.15,Pagamento de benefícios pós-emprego,-146199.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.16,Demais obrigações e outros passivos,54136.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.17,Ativos indenizáveis pela União,0E-10,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.18,Efeito migração benefícios pós-emprego - planos CD,0E-10,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.02.19,Pagamento de ressarcimentos,-224586.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.03,Outros,-2582185.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.03.01,"Juros pagos sobre empréstimos, financiamentos e debêntures",-2138868.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.03.02,Imposto de renda e contribuição social pagos,-252512.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.01.03.03,Pagamento de juros sobre passivo de arrendamento,-190805.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.02,Caixa Líquido Atividades de Investimento,-1343425.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.02.01,Resgate de aplicações financeiras,-553666.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.02.02,Resgate de conta reserva,-39725.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.02.03,Aquisição de imobilizado e intangível,-970265.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.02.04,Recebimento de dividendos e juros sobre capital próprio,232120.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.02.05,Aquisição de investimento,0E-10,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.02.06,Recebimento pela venda de ativo imobilizado e disponível para venda,9964.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.02.07,Redução/Aumento de capital em investidas,-4673.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.02.08,Recebimento de operação de alienação de investidas,63516.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.02.09,"Pagamento pela aquisição - Auren Participações, líquido do caixa incluído",0E-10,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.02.10,"Aquisição de investimento - Way2, líquido do caixa incluído",-80260.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.02.11,Aumento de capital - Combinação de Negócios,0E-10,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.02.12,"Pagamento pela aquisição - Esfera Energia, líquido do caixa incluído",-436.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.02.13,Aumento de capital - Combinação de Negócios,0E-10,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.03,Caixa Líquido Atividades de Financiamento,-3425792.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.03.01,Captação de recursos,5432764.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.03.02,"Liquidação de empréstimos, financiamentos e debêntures",-8597828.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.03.03,Custo da captação de recursos,-111634.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.03.04,Aumento de capital social,0E-10,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.03.05,Liquidação de arrendamentos,-27102.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.03.06,Pagamento de dividendos,-241835.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.03.07,Custo de recompra - ações em tesouraria,-5543.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.03.08,Liquidação de instrumentos derivativos,125386.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.03.09,Incorporação ARN - Combinação de Negócios,0E-10,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.04,Variação Cambial s/ Caixa e Equivalentes,0E-10,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.05,Aumento (Redução) de Caixa e Equivalentes,-3374422.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.05.01,Saldo Inicial de Caixa e Equivalentes,7200549.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+CONSOLIDADO,DFC_MI,6.05.02,Saldo Final de Caixa e Equivalentes,3826127.0000000000,dfp_cia_aberta_DFC_MI_con_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01,Caixa Líquido Atividades Operacionais,-905529.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01,Caixa Gerado nas Operações,-63821.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.01,Lucro (prejuízo) antes do imposto de renda e da contribuição social,-774971.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.02,Depreciação e amortização,14448.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.03,Amortização de mais valia,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.04,Ganho (perda) com venda de imobilizado e ativos disponíveis para venda,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.05,Custo financeiro da securitização,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.06,Rendimento sobre fundo de reserva,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.07,Equivalência patrimonial,-82153.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.08,Juros e variações monetárias,742418.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.09,Apropriação de custos de captação,34430.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.10,Baixa de atualização monetária de depósitos judiciais,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.11,Hedge financeiro sobre importação,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.12,Contratos futuros de energia,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.13,Reversão (provisão) de impairment de ativo imobilizado e intangível,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.14,Provisão (reversão) para litígios e incentivo a longo prazo,451.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.15,Provisão (reversão) de ressarcimento e obrigações socioambientais,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.16,Indenização de bens reversíveis,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.17,Atualização de saldo Ativos indenizáveis pela União,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.18,Atualizações de saldos,-36.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.19,Ajuste a valor presente,1592.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.01.20,"Baixa de imobilizado, intangível e direito de uso de arrendamentos",0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02,Variações nos Ativos e Passivos,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.01,Contas a receber de clientes,-2700.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.02,Tributos a recuperar,-26476.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.03,Almoxarifado,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.04,Cauções e depósitos judiciais,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.05,Partes relacionadas,-9853.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.06,Demais créditos e outros ativos,5.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.07,Fornecedores,8880.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.08,Instrumentos financeiros derivativos,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.09,Obrigações estimadas e folha de pagamento,2016.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.10,Tributos a recolher,-1461.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.11,Encargos setoriais,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.12,Pagamento de obrigações socioambientais,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.13,Pagamento de UBP - Uso do bem público,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.14,"Pagamento de litígios, obrigações e acordos judiciais",0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.15,Pagamento de benefícios pós-emprego,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.16,Demais obrigações e outros passivos,1171.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.17,Ativos indenizáveis pela União,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.18,Efeito migração benefícios pós-emprego - planos CD,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.02.19,Pagamento de ressarcimentos,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.03,Outros,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.03.01,"Juros pagos sobre empréstimos, financiamentos e debêntures",-813290.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.01.03.02,Imposto de renda e contribuição social pagos,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.02,Caixa Líquido Atividades de Investimento,4627901.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.02.01,Resgate de aplicações financeiras,-11247.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.02.02,Resgate de conta reserva,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.02.03,Aquisição de imobilizado e intangível,-4601.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.02.04,Recebimento de dividendos e juros sobre capital próprio,2078346.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.02.05,Aquisição de investimento,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.02.06,Recebimento pela venda de ativo imobilizado e disponível para venda,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.02.07,Redução/Aumento de capital em investidas,2530422.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.02.08,Recebimento de operação de alienação de investidas,34981.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.02.09,"Pagamento pela aquisição - Auren Participações, líquido do caixa incluído",0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.02.10,"Aquisição de investimento - Way2, líquido do caixa incluído",0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.03,Caixa Líquido Atividades de Financiamento,-5471339.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.03.01,Captação de recursos,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.03.02,"Liquidação de empréstimos, financiamentos e debêntures",-5400000.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.03.03,Custo da captação de recursos,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.03.04,Aumento de capital social,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.03.05,Liquidação de arrendamentos,-6210.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.03.06,Pagamento de dividendos,-59586.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.03.07,Pagamento de resgate de ações,-5543.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.04,Variação Cambial s/ Caixa e Equivalentes,0E-10,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.05,Aumento (Redução) de Caixa e Equivalentes,-1748967.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.05.01,Saldo Inicial de Caixa e Equivalentes,2041410.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+INDIVIDUAL,DFC_MI,6.05.02,Saldo Final de Caixa e Equivalentes,292443.0000000000,dfp_cia_aberta_DFC_MI_ind_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.01,Receita de Venda de Bens e/ou Serviços,13176952.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.02,Custo dos Bens e/ou Serviços Vendidos,-11026216.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.02.01,Custo com energia elétrica,-8481851.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.02.02,Custo com operação,-2544365.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.02.03,Repactuação do risco hidrológico,0E-10,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.02.04,Depreciação e amortização,0E-10,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.03,Resultado Bruto,2150736.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.04,Despesas/Receitas Operacionais,165388.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.04.01,Despesas com Vendas,0E-10,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.04.02,Despesas Gerais e Administrativas,-648963.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0E-10,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.04.04,Outras Receitas Operacionais,0E-10,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.04.05,Outras Despesas Operacionais,609004.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.04.05.01,"Outras receitas (despesas) operacionais, líquidas",609004.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.04.05.02,Depreciação e amortização,0E-10,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.04.06,Resultado de Equivalência Patrimonial,205347.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,2316124.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.06,Resultado Financeiro,-2433938.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.06.01,Receitas Financeiras,1107724.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.06.02,Despesas Financeiras,-3541662.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.07,Resultado Antes dos Tributos sobre o Lucro,-117814.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,-440061.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.08.01,Corrente,-330940.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.08.02,Diferido,-109121.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.09,Resultado Líquido das Operações Continuadas,-557875.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.10,Resultado Líquido de Operações Descontinuadas,0E-10,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0E-10,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0E-10,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.11,Lucro/Prejuízo Consolidado do Período,-557875.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.11.01,Atribuído a Sócios da Empresa Controladora,-664032.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.11.02,Atribuído a Sócios Não Controladores,106157.0000000000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.99,Lucro por Ação - (Reais / Ação),0E-10,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.99.01,Lucro Básico por Ação,0E-10,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.99.01.01,ON,-0.6357200000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.99.02,Lucro Diluído por Ação,0E-10,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+CONSOLIDADO,DRE,3.99.02.01,ON,-0.6326200000,dfp_cia_aberta_DRE_con_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.01,Receita de Venda de Bens e/ou Serviços,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.02,Custo dos Bens e/ou Serviços Vendidos,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.02.01,Custo com energia elétrica,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.02.02,Custo com operação,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.02.03,Repactuação do risco hidrológico,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.02.04,Depreciação e amortização,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.03,Resultado Bruto,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.04,Despesas/Receitas Operacionais,-85444.0000000000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.04.01,Despesas com Vendas,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.04.02,Despesas Gerais e Administrativas,-167807.0000000000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.04.03,Perdas pela Não Recuperabilidade de Ativos,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.04.04,Outras Receitas Operacionais,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.04.05,Outras Despesas Operacionais,210.0000000000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.04.05.01,"Outras receitas (despesas) operacionais, líquidas",210.0000000000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.04.05.02,Depreciação e amortização,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.04.06,Resultado de Equivalência Patrimonial,82153.0000000000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.05,Resultado Antes do Resultado Financeiro e dos Tributos,-85444.0000000000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.06,Resultado Financeiro,-689527.0000000000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.06.01,Receitas Financeiras,103472.0000000000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.06.02,Despesas Financeiras,-792999.0000000000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.07,Resultado Antes dos Tributos sobre o Lucro,-774971.0000000000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.08,Imposto de Renda e Contribuição Social sobre o Lucro,110939.0000000000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.08.01,Corrente,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.08.02,Diferido,110939.0000000000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.09,Resultado Líquido das Operações Continuadas,-664032.0000000000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.10,Resultado Líquido de Operações Descontinuadas,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.10.01,Lucro/Prejuízo Líquido das Operações Descontinuadas,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.10.02,Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.11,Lucro/Prejuízo do Período,-664032.0000000000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.99,Lucro por Ação - (Reais / Ação),0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.99.01,Lucro Básico por Ação,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.99.01.01,ON,-0.6357200000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.99.02,Lucro Diluído por Ação,0E-10,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL
+INDIVIDUAL,DRE,3.99.02.01,ON,-0.6326200000,dfp_cia_aberta_DRE_ind_2025.csv,1,MIL

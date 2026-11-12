@@ -1,0 +1,55 @@
+{
+  "classificacao": "RP extração de texto do PDF público recebido; não é conciliação independente com base estruturada da CVM",
+  "linhas": 298,
+  "escopos": {
+    "CONSOLIDADO BP": 92,
+    "CONSOLIDADO DFC": 68,
+    "CONSOLIDADO DRE": 22,
+    "CONTROLADORA BP": 60,
+    "CONTROLADORA DFC": 42,
+    "CONTROLADORA DRE": 14
+  },
+  "limite": "Não inclui DRA/DMPL/DVA; contas e descrições precisam de revisão visual se exigida exatidão célula a célula. Valores 2024 são coluna comparativa contida na DFP 2025.",
+  "controles": [
+    {
+      "escopo": "CONSOLIDADO",
+      "demonstracao": "BP",
+      "codigo": "1",
+      "valor_2025_RSmil": 48727388,
+      "valor_2024_RSmil": 52754236,
+      "pagina": 15
+    },
+    {
+      "escopo": "CONSOLIDADO",
+      "demonstracao": "DRE",
+      "codigo": "3.01",
+      "valor_2025_RSmil": 13176952,
+      "valor_2024_RSmil": 8059951,
+      "pagina": 19
+    },
+    {
+      "escopo": "CONSOLIDADO",
+      "demonstracao": "DFC",
+      "codigo": "6.01",
+      "valor_2025_RSmil": 1394795,
+      "valor_2024_RSmil": 581151,
+      "pagina": 21
+    },
+    {
+      "escopo": "CONTROLADORA",
+      "demonstracao": "BP",
+      "codigo": "1",
+      "valor_2025_RSmil": 17164815,
+      "valor_2024_RSmil": 23466654,
+      "pagina": 3
+    },
+    {
+      "escopo": "CONTROLADORA",
+      "demonstracao": "DFC",
+      "codigo": "6.01",
+      "valor_2025_RSmil": -905529,
+      "valor_2024_RSmil": -123740,
+      "pagina": 8
+    }
+  ]
+}

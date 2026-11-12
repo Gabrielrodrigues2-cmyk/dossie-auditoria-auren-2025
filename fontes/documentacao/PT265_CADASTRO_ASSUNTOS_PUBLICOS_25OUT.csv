@@ -1,0 +1,7 @@
+id,assunto,documento_publico,pagina_pdf,procedimento,resultado,classe,limitacao
+PUB-01,Impairment de imobilizado e intangível,DFP 2025 relatório PwC,148-152,Leitura dos principais assuntos de auditoria,Assunto qualificado como relevante no relatório público,RP,Não comprova execução da auditoria da própria equipe didática
+PUB-02,Mensuração dos contratos de energia,DFP 2025 Nota 18,112-113,Identificar premissas e risco de valor justo,Exige suporte de modelos e curvas de preços,RP/PA,Sem modelos e confirmações
+PUB-03,Fluxo de vencimento de dívida,DFP 2025 Nota 15(b),106,Transcrição de gráfico e soma de barras,R$24.521.253 mil de fluxos incluindo juros projetados,RP,Não igualar ao saldo contábil
+PUB-04,Provisão de ressarcimento,DFP 2025 Nota 20,116-117,Identificar passivo corrente, R$900.907 mil de parcela circulante,RP,Classificações e condições regulatórias requerem estudo adicional
+PUB-05,Partes relacionadas após fechamento,Comunicado ao Mercado 26/02/2026,1-3,Identificar contrato de R$55 milhões e fornecimento de energia,Transações datadas em 2026,RP,Sem evidência de reconhecimento em 2025
+PUB-06,Reorganização posterior,Fato Relevante 14/04/2026 e Comunicado 01/06/2026,1-6;1-2,Comparar proposta e consumação da fase 1,A fase 1 produziu efeitos em 31/05/2026,RP,Não refletir em estrutura 31/12/2025

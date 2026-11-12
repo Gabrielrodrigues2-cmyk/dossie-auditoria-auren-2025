@@ -1,3 +1,32 @@
+# CONVENÇÃO ÚNICA DE VERSIONAMENTO — ENTREGA V3 (12/11/2026)
+
+**PDF oficial único:** [`dossie/DOSSIE_AUREN_2025_V3_VERSIONAMENTO_UNIFICADO.pdf`](dossie/DOSSIE_AUREN_2025_V3_VERSIONAMENTO_UNIFICADO.pdf).
+
+**Versão oficial e única para os cálculos sintéticos correntes: V3.** População: [`dados_sinteticos_v3/IMOBILIZADO_500000_V3_CEGO.csv.gz`](dados_sinteticos_v3/IMOBILIZADO_500000_V3_CEGO.csv.gz), N = 500.000, dicionário `documentacao/DICIONARIO_V3.md`, conciliação `dados_sinteticos_v3/CONCILIACAO_V3.json`. Seleção e inferência atuais: `codigo/47_pt530_amostragem_v3_estatistica.py`, `analises/PT530_V3_PLANO_E_RESULTADOS.json`. Validação de C6: `codigo/50_validar_versionamento_v3.py`.
+
+**V2 (somente acervo histórico):** gerador `codigo/26_gerar_base_v2.py`, amostra antiga `analises/PT530_V2_AMOSTRA_600_REPRODUZIVEL.csv`, detector antigo de 982 alertas e 501 anomalias plantadas não detectadas. Esses números **não pertencem à amostragem V3** e não fundamentam sua conclusão estatística. Scripts de manutenção histórica não sobrescrevem o estado corrente V3.
+
+**Ressalva:** a V3 é fictícia calibrada a totais da DFP e não reproduz o cadastro contábil real. O resultado de n=600 é amostragem por atributos; as 40 unidades de certeza são examinadas fora da inferência, e nenhuma taxa pode ser transformada em distorção monetária. Consulte [`PROTOCOLO_VERSIONAMENTO_V3_2026.md`](documentacao/PROTOCOLO_VERSIONAMENTO_V3_2026.md) e o adendo de versão dentro do PDF.
+
+---
+
+# REVISÃO APÓS DEVOLUTIVA DO PROFESSOR — 11/11/2026
+
+**Versão vigente:** V3 é a única base sintética principal; V2 é apenas histórico de comparação. A amostragem estatística atual é `codigo/47_pt530_amostragem_v3_estatistica.py` (600 itens aleatórios, 40 unidades de certeza analisadas separadamente); o planejamento de grupo está em `codigo/48_pt600_escopo_materialidade_segmentos.py`. **Os resultados antigos de 982 alertas pertencem somente à V2.**
+
+**Leia primeiro:** `documentacao/RELATORIO_CORRECOES_PROFESSOR_2026.md`, `documentacao/MATRIZ_CORRECOES_PROFESSOR_2026.csv`, PT 530 §8, PT 600 §8 e o adendo final do PDF. Trechos históricos dos PT devem ser interpretados segundo as retificações §8 e a nota transversal de versionamento.
+
+**Reprodução e pré-entrega:**
+```bash
+python codigo/47_pt530_amostragem_v3_estatistica.py
+python codigo/48_pt600_escopo_materialidade_segmentos.py
+python codigo/49_validar_correcao_professor.py
+```
+
+**Importante:** o arquivo de gabarito sintético está disponível separadamente para avaliação pedagógica e só é consultado após a seleção e o teste cego. Isso não constitui verificação independente sobre a Auren. Os limiares por segmento não são materialidades de entidades jurídicas; a documentação pública não permite auditá-las.
+
+---
+
 # Auren Energia S.A. — Dossiê acadêmico de auditoria do exercício de 2025
 
 **Universidade de Brasília (UnB) · CCA0024 — Auditoria 1 · Matrícula 232037730 · Data de preparação: 25/10/2026.**
@@ -6,10 +35,10 @@
 
 ## Comece por aqui
 
-1. **Dossiê oficial em PDF (único):** [`dossie/DOSSIE_AUREN_2025_REVISAO_NORMATIVA_OPERACIONAL.pdf`](dossie/DOSSIE_AUREN_2025_REVISAO_NORMATIVA_OPERACIONAL.pdf). Contém 27 PT e referências cruzadas. Arquivos de versões antigas foram excluídos da pasta `dossie/` para evitar erro de escolha.
+1. **Dossiê oficial em PDF (único):** [`dossie/DOSSIE_AUREN_2025_V3_VERSIONAMENTO_UNIFICADO.pdf`](dossie/DOSSIE_AUREN_2025_V3_VERSIONAMENTO_UNIFICADO.pdf). Contém 27 PT e referências cruzadas. Arquivos de versões antigas foram excluídos da pasta `dossie/` para evitar erro de escolha.
 2. **Papéis individuais:** `PT/PT_EC.md`, `PT/PT_200.md` a `PT/PT_600.md` (todos os 27 identificados na [`MATRIZ_COBERTURA_NORMAS_ATUALIZADA.csv`](documentacao/MATRIZ_COBERTURA_NORMAS_ATUALIZADA.csv)). Programas individuais em `programas/` e seis programas de ciclo em `ciclos/`.
 3. **Base sintética PRINCIPAL V3:** [`IMOBILIZADO_500000_V3_CEGO.csv.gz`](dados_sinteticos_v3/IMOBILIZADO_500000_V3_CEGO.csv.gz) — 500.000 registros inventados. **Dicionário correto:** [`DICIONARIO_V3.md`](documentacao/DICIONARIO_V3.md). Conciliação sintética `dados_sinteticos_v3/CONCILIACAO_V3.json`. O arquivo público não contém rótulos de erro.
-4. **Base V2 separada:** `dados_sinteticos_v2/imobilizado_500000_v2_REGERADO.csv.gz`, dicionário [`DICIONARIO_V2.md`](documentacao/DICIONARIO_V2.md); usada **especificamente** na amostra de 600 e na detecção de 982 sinalizações. Não transferir esse resultado à V3.
+4. **Base V2 HISTÓRICA, NÃO PRINCIPAL:** `dados_sinteticos_v2/imobilizado_500000_v2_REGERADO.csv.gz`, dicionário [`DICIONARIO_V2.md`](documentacao/DICIONARIO_V2.md); usada **exclusivamente no teste histórico separado** (a antiga amostra de 600 e a detecção de 982 sinalizações). Não transferir esse resultado à V3.
 5. **Razão inteiramente fictício:** `dados_sinteticos_v3/RAZAO_PT240_12000_LINHAS.csv`, para aplicação didática de testes no PT 240.
 6. **Cálculos e planilhas:** `planilhas/PT_320_materialidade_e_cobertura.xlsx` e `planilhas/DFP_REAL_E_CONCILIACOES_V3.xlsx`; arquivos CSV em `analises/` e `documentacao/`.
 7. **Matriz de normas:** [`MATRIZ_COBERTURA_NORMAS_ATUALIZADA.csv`](documentacao/MATRIZ_COBERTURA_NORMAS_ATUALIZADA.csv), mais `MATRIZ_PERTINENCIA_NORMATIVA_OPERACIONAL_27_PT.csv` e o PDF `NORMAS/Consolidado Normas Aud1.pdf` do professor.

@@ -1,0 +1,17 @@
+{
+  "natureza": "SD: nova base V2 independente; NAO reconstrucao da base historica",
+  "seed": 20251023,
+  "registros": 500000,
+  "valores_publicos_usados_apenas_para_calibracao": {
+    "DIREITO_USO_ARRENDAMENTO": {
+      "registros": 2720,
+      "saldo_liquido_rs": 140111000
+    },
+    "IMOBILIZADO_OPERACAO": {
+      "registros": 497280,
+      "saldo_liquido_rs": 25430247000
+    }
+  },
+  "sha256_gzip": "bfd1bac748c246d0bd7768688a2816c1a2ca20116a804f678669973cbbf85971",
+  "sha256_gabarito": "bc85a9c27c2e4c5030c144c589817a1859c60171b0e38fcba39f59f4ac91a273"
+}
